@@ -18,3 +18,5 @@ https://wiki.linuxaudio.org/wiki/lowlatency_deprecated
 https://rt.wiki.kernel.org/index.php/RT_PREEMPT_HOWTO
 
 http://www.elinux.org/Realtime_Testing_Best_Practices#Terminology
+
+http://elinux.org/R-Car/Boards/Yocto-Gen3#Preparing_eMMC.2FSD_card
