@@ -12,3 +12,9 @@ http://www.embedded.com/electronics-blogs/beginner-s-corner/4023947/Introduction
 http://elinux.org/Benchmark_Programs
 
 https://wiki.linuxfoundation.org/realtime/start
+
+https://wiki.linuxaudio.org/wiki/lowlatency_deprecated
+
+https://rt.wiki.kernel.org/index.php/RT_PREEMPT_HOWTO
+
+http://www.elinux.org/Realtime_Testing_Best_Practices#Terminology
