@@ -2,7 +2,7 @@
 grep processor /proc/cpuinfo
 https://github.com/LITMUS-RT/cyclictest
 /etc/init.d/networking restart
-
+http://www.tutorialspoint.com/unix_commands/
 http://www.denx.de/wiki/publish/Training2/Training2.html
 
 https://rt.wiki.kernel.org/index.php/RT_PREEMPT_HOWTO
