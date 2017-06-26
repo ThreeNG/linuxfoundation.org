@@ -1,6 +1,6 @@
 #linuxfoundation.org
 grep processor /proc/cpuinfo
-
+https://github.com/LITMUS-RT/cyclictest
 /etc/init.d/networking restart
 
 http://www.denx.de/wiki/publish/Training2/Training2.html
