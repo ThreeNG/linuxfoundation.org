@@ -25,7 +25,7 @@ http://www.elinux.org/Realtime_Testing_Best_Practices#Terminology
 
 http://elinux.org/R-Car/Boards/Yocto-Gen3#Preparing_eMMC.2FSD_card
 
-
+https://www.youtube.com/watch?v=uXCgwKZs3p0&list=PLyxL6gzx1uepr3OhMVSD05ipfGi49Fpgh&index=9
 
 Repeat the previous command with a substitution
 3
