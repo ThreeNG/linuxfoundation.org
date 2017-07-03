@@ -1,4 +1,6 @@
 #linuxfoundation.org
+
+ls -l | awk '{print $5}' | sort -n
 grep processor /proc/cpuinfo
 https://github.com/LITMUS-RT/cyclictest
 /etc/init.d/networking restart
