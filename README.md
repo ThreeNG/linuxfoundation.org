@@ -37,3 +37,5 @@ mplayer Lecture_video_part2.mkv
 This command will replace 1 with 2 in the previously executed command. It will only replace the first occurrence of the string and is equivalent to !!:s/1/2/.
 
 If you want to replace all occurrences, you have to use !!:gs/1/2/ or !!:as/1/2/.
+
+https://stackoverflow.com/documentation/vim/1117/movement#t=201707040433241344474
