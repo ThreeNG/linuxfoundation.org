@@ -39,3 +39,23 @@ This command will replace 1 with 2 in the previously executed command. It will o
 If you want to replace all occurrences, you have to use !!:gs/1/2/ or !!:as/1/2/.
 
 https://stackoverflow.com/documentation/vim/1117/movement#t=201707040433241344474
+
+if ( expression ) then                    if ( expression ) then
+         statements                                true statements
+    endif                                     else
+                                                   false statements
+                                              endif
+switch ( expression )
+        case a:
+               commands
+               breaksw
+        case b:
+               commands
+               breaksw
+     endsw
+     
+     @ n = 5
+    while ($n) 
+         # do something
+         @ n--
+    end
