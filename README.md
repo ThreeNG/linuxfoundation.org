@@ -1,5 +1,5 @@
 #linuxfoundation.org
-
+find -name "OGLES2*" -type f
 ls -l | awk '{print $5}' | sort -n
 grep processor /proc/cpuinfo
 https://github.com/LITMUS-RT/cyclictest
