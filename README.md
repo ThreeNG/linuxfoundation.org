@@ -3,6 +3,12 @@
 
 Mã Đặt Chỗ
 AXMAEO
+ VN 1372: TP. Hồ Chí Minh (SGN) > Huế (HUI)
+ 02 Thg 12 - 11:00 AM
+  VN 1377: Huế (HUI) > TP. Hồ Chí Minh (SGN)
+05 Thg 12 - 08:00 PM
+
+https://www.vietnamairlines.com/vn/vi/travel-information/baggage/special-baggage
 
 
 https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/
