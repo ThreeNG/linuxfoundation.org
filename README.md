@@ -1,6 +1,10 @@
 #linuxfoundation.org
 
 
+Mã Đặt Chỗ
+AXMAEO
+
+
 https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/
 
 /run/user/root
