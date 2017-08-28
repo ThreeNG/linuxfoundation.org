@@ -3,6 +3,7 @@
 
 https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/
 
+/run/user/root
 
 https://www.renesas.com/en-us/solutions/automotive.html
 
