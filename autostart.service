@@ -1,0 +1,27 @@
+[Unit]
+Description=Auto Start Test
+#RequiresMountsFor=/run
+#Wants=rc.pvr.service
+#After=rc.pvr.service
+#Requires=weston.service
+#Conflict=weston.service
+#After=weston.service
+
+[Service]
+#User=root
+#EnvironmentFile=-/etc/default/weston
+Environment="XDG_RUNTIME_DIR=/run/user/root"
+
+ExecStart=/usr/bin/firefox
+#ExecStart=/home/pi/systemd/mjpgstreamer.sh
+#ExecStart=/etc/init.d/autostart.sh
+#ExecStart=/usr/bin/weston-flower
+#ExecStartPost=/home/root/write_phy r 0xE61E000C 1
+#Restart=always
+#Type=simple
+#Type=forkinge
+Restart=on-failure
+RestartSec=1
+
+[Install]
+WantedBy=multi-user.target
