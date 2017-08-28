@@ -4,6 +4,8 @@
 https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/
 
 
+https://www.renesas.com/en-us/solutions/automotive.html
+
 https://www.renesas.com/en-us/solutions/automotive/rcar-demoboard.html
 
 du -hs *
