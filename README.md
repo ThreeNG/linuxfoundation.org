@@ -10,6 +10,7 @@ https://www.renesas.com/en-us/solutions/automotive/rcar-demoboard.html
 
 du -hs *
 
+ 	autostart.service put in /etc/systemd/system
 
 https://www.computerhope.com/issues/ch001638.htm
 
