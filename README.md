@@ -8,6 +8,23 @@ AXMAEO
   VN 1377: Huế (HUI) > TP. Hồ Chí Minh (SGN)
 05 Thg 12 - 08:00 PM
 
+
+
+Hành lý ký gửi không có người nhận
+
+Vietnam Airlines sẽ lưu giữ hành lý ký gửi không có người nhận trong vòng 90 ngày và sẽ được tính phí lưu giữ. Sau thời hạn 90 ngày, Vietnam Airlines sẽ có toàn quyền quyết định đối với hành lý đó.
+Địa chỉ liên hệ hành lý thất lạc tại sân bay Nội Bài và Tân Sơn Nhất
+
+Tại sân bay quốc tế Nội Bài:
+Quầy hành lý thất lạc tại tầng 1 sân bay quốc tế Nội Bài.
+Điện thoại: (84-4)38840008 hoặc (84-4)38865002 bấm số 3134
+E-mail: hl.viags@vietnamairlines.com; xld.viags@vietnamairlines.com
+
+Tại sân bay quốc tế Tân Sơn Nhất:
+Quầy hành lý thất lạc tại nhà ga T2 sân bay quốc tế Tân Sơn Nhất.
+Điện thoại:(84-8) 35470415 hoặc (84-8) 38446665 bấm số 6062
+E-mail: lostandfound.viags@vietnamairlines.com 
+
 https://www.vietnamairlines.com/vn/vi/travel-information/baggage/special-baggage
 
 
