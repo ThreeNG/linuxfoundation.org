@@ -3,6 +3,8 @@
 
 https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/
 
+du -hs *
+
 
 https://www.computerhope.com/issues/ch001638.htm
 
