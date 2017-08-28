@@ -1,4 +1,12 @@
 #linuxfoundation.org
+
+
+https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/
+
+
+https://www.computerhope.com/issues/ch001638.htm
+
+
 find -name "OGLES2*" -type f
 ls -l | awk '{print $5}' | sort -n
 grep processor /proc/cpuinfo
