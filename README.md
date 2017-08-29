@@ -1,6 +1,7 @@
 #linuxfoundation.org
 
 lsblk 
+http://www.jumpnowtek.com/rpi/Raspberry-Pi-Systems-with-Yocto.html
 
 https://www.facebook.com/computerhope/
 
