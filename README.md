@@ -3,6 +3,10 @@
 https://www.facebook.com/computerhope/
 
 
+https://www.computerhope.com/shortcut/excel.htm
+
+
+
 Mã Đặt Chỗ
 AXMAEO
  VN 1372: TP. Hồ Chí Minh (SGN) > Huế (HUI)
