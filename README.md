@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+lsblk 
+
 https://www.facebook.com/computerhope/
 
 
