@@ -5,7 +5,12 @@ https://www.facebook.com/computerhope/
 
 https://www.computerhope.com/shortcut/excel.htm
 
+what version of the Linux kernel you are running, use the uname command.
 
+uname -a
+
+
+find . -maxdepth 3
 
 Mã Đặt Chỗ
 AXMAEO
