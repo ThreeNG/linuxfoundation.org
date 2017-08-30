@@ -8,6 +8,10 @@ service lightdm start
 
 and switch to gui by Ctrl+Alt+F7
 
+If for some reason you want to revert to original settings, just run command below in terminal:
+
+sudo mv /etc/default/grub.orig /etc/default/grub && sudo update-grub
+
 lsblk 
 http://www.jumpnowtek.com/rpi/Raspberry-Pi-Systems-with-Yocto.html
 
