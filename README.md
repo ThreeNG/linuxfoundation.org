@@ -12,6 +12,16 @@ If for some reason you want to revert to original settings, just run command bel
 
 sudo mv /etc/default/grub.orig /etc/default/grub && sudo update-grub
 
+
+sudo nano /etc/init/tty1.conf to open init file for TTY1 (notice that TTY1 is just an example, could be whichever you choose) . Change line
+
+exec /sbin/getty -8 38400 tty1
+
+to
+
+exec /sbin/getty --autologin userName    -8 38400 tty1
+
+
 lsblk 
 http://www.jumpnowtek.com/rpi/Raspberry-Pi-Systems-with-Yocto.html
 
