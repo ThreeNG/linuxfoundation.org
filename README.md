@@ -3,6 +3,11 @@
 http://172.29.143.164:8080/projects/rvc-wayland-gen4/easy_gantt
 
 
+
+service lightdm start
+
+and switch to gui by Ctrl+Alt+F7
+
 lsblk 
 http://www.jumpnowtek.com/rpi/Raspberry-Pi-Systems-with-Yocto.html
 
