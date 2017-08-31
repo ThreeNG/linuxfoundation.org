@@ -8,6 +8,15 @@ Code:
 chvt 12
 
 
+20170629_R-CarGen3_Simultaneous_Operation_E
+
+20170706_R-CarGen3_ApplicationSwitchMeasurement_E.pptx
+
+20170419_R-CarGen3_Boot-up_time_measurement_E.pptx
+
+20170420_Summary_of_Driver_Initialize_Time_E.xlsx
+
+20170615_Summary_of_Driver_Resume_Time_r4_E.xlsx
 
 service lightdm start
 
