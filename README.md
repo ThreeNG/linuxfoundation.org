@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+http://thegioiic.com/services/phat-trien-phan-mem-nhung-embedded-software-development-services
+
 https://stackoverflow.com/documentation/bash/3949/keyboard-shortcuts#t=201709050902518007229
 https://stackoverflow.com/documentation/vim/879/getting-started-with-vim#t=201709050851135590219
 https://tinhte.vn/threads/nhung-thong-tin-can-biet-ve-soc-bon-nhan-danh-cho-thiet-bi-di-dong.1909229/
