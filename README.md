@@ -4,6 +4,14 @@ Renesas Electronics Corporation is a Japanese multinational semiconductor manufa
 
 http://elinux.org/Jetson_TX2
 
+ infotainment systems, human-machine interfacing, and advanced driver-assistance systems (ADAS).
+
+R-Car is organized into three classes:
+
+    R-Car E - Entry-level/Emerging economics
+    R-Car M - Mid-range SoC
+    R-Car H - High-end/Premium class SoCs
+
 http://172.29.143.164:8080/projects/rvc-wayland-gen4/easy_gantt
 
 https://en.wikichip.org/wiki/WikiChip
