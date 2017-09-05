@@ -1,5 +1,11 @@
 #linuxfoundation.org
 
+https://stackoverflow.com/documentation/bash/3949/keyboard-shortcuts#t=201709050902518007229
+https://stackoverflow.com/documentation/vim/879/getting-started-with-vim#t=201709050851135590219
+https://tinhte.vn/threads/nhung-thong-tin-can-biet-ve-soc-bon-nhan-danh-cho-thiet-bi-di-dong.1909229/
+
+Qualcomm với nhân Krait, Apple với nhân tùy biến trong A6 là hai cái tên được biết đến rộng rãi trong việc sử dụng hình thức cấp bản quyền thứ hai của ARM. Ngoài ra chúng ta còn có Marvell với nhân XScale, NVIDIA thì có dự án Denver.
+
 Renesas Electronics Corporation is a Japanese multinational semiconductor manufacturer, designer, and service company. The company was originally established as a joint venture between Hitachi and Mitsubishi Electric (55%-45%) in 2003 and started operations in 2010 after the merger of NEC Electronics. 
 
 http://thegioivimach.com/nhu-cau-hien-nay-ngay-cang-nhieu-cong-ty-thiet-ke-vi-mach-nuoc-ngoai-vao-viet-nam-nguon-nhan-luc-thiet-ke-vi-mach-viet-nam-khong-nhieu-khong-the-dap-ung-cho-nhu-cau-cua-cac-doanh-nghiep-nuoc-ngoai-r
