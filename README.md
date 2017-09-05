@@ -1,5 +1,9 @@
 #linuxfoundation.org
 http://elinux.org/ELC_2017_Presentations
+https://en.wikichip.org/wiki/renesas/r-car/h3
+https://en.wikichip.org/wiki/renesas/r-car/m3
+
+
 
 
 http://thegioiic.com/services/phat-trien-phan-mem-nhung-embedded-software-development-services
