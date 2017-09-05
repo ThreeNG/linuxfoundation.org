@@ -2,6 +2,8 @@
 
 Renesas Electronics Corporation is a Japanese multinational semiconductor manufacturer, designer, and service company. The company was originally established as a joint venture between Hitachi and Mitsubishi Electric (55%-45%) in 2003 and started operations in 2010 after the merger of NEC Electronics. 
 
+http://thegioivimach.com/nhu-cau-hien-nay-ngay-cang-nhieu-cong-ty-thiet-ke-vi-mach-nuoc-ngoai-vao-viet-nam-nguon-nhan-luc-thiet-ke-vi-mach-viet-nam-khong-nhieu-khong-the-dap-ung-cho-nhu-cau-cua-cac-doanh-nghiep-nuoc-ngoai-r
+
 http://elinux.org/Jetson_TX2
 
  infotainment systems, human-machine interfacing, and advanced driver-assistance systems (ADAS).
