@@ -1,4 +1,6 @@
 #linuxfoundation.org
+http://elinux.org/ELC_2017_Presentations
+
 
 http://thegioiic.com/services/phat-trien-phan-mem-nhung-embedded-software-development-services
 
