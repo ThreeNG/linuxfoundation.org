@@ -1,5 +1,8 @@
 #linuxfoundation.org
 
+Renesas Electronics Corporation is a Japanese multinational semiconductor manufacturer, designer, and service company. The company was originally established as a joint venture between Hitachi and Mitsubishi Electric (55%-45%) in 2003 and started operations in 2010 after the merger of NEC Electronics. 
+
+
 http://172.29.143.164:8080/projects/rvc-wayland-gen4/easy_gantt
 
 https://en.wikichip.org/wiki/WikiChip
