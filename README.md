@@ -2,6 +2,8 @@
 
 http://172.29.143.164:8080/projects/rvc-wayland-gen4/easy_gantt
 
+https://en.wikichip.org/wiki/WikiChip
+
 to switch to terminal 12:
 Code:
 
