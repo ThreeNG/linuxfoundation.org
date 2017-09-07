@@ -4,7 +4,7 @@ https://en.wikichip.org/wiki/renesas/r-car/h3
 https://en.wikichip.org/wiki/renesas/r-car/m3
 
 
-
+http://git.yoctoproject.org/cgit/cgit.cgi/yocto-docs/
 
 http://thegioiic.com/services/phat-trien-phan-mem-nhung-embedded-software-development-services
 
