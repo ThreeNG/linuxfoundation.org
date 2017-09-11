@@ -3,6 +3,8 @@ http://elinux.org/ELC_2017_Presentations
 https://en.wikichip.org/wiki/renesas/r-car/h3
 https://en.wikichip.org/wiki/renesas/r-car/m3
 
+http://www.embeddedlinux.org.cn/oemanual/gettingoe_getting_bitbake.html
+
 https://www.howtogeek.com/168137/mount-an-iso-image-in-linux/
 
 http://git.yoctoproject.org/cgit/cgit.cgi/yocto-docs/
