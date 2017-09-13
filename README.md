@@ -1,4 +1,7 @@
 #linuxfoundation.org
+
+https://stackoverflow.com/documentation/makefile/1793/getting-started-with-makefile#t=201709130625211270094
+
 http://elinux.org/ELC_2017_Presentations
 https://en.wikichip.org/wiki/renesas/r-car/h3
 https://en.wikichip.org/wiki/renesas/r-car/m3
