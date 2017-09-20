@@ -2,7 +2,7 @@
 
 https://stackoverflow.com/documentation/makefile/1793/getting-started-with-makefile#t=201709130625211270094
 http://apolukhin.github.io/Boost-Cookbook/
-
+http://e-learning-teleformacion.blogspot.jp/2017/09/learn-about-your-personality-type.html#.WcG_0EdJzRx
 http://dalliard.net/files/ravenispi.php
 
 http://elinux.org/ELC_2017_Presentations
