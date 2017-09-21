@@ -1,7 +1,7 @@
 #linuxfoundation.org
 
 https://www.itworld.com/article/2832766/development/linux-tip--using-the-read-command.html
-
+http://usualpanic.com/2013/05/raspberry-pi-internet-radio/
 https://stackoverflow.com/documentation/makefile/1793/getting-started-with-makefile#t=201709130625211270094
 http://apolukhin.github.io/Boost-Cookbook/
 http://e-learning-teleformacion.blogspot.jp/2017/09/learn-about-your-personality-type.html#.WcG_0EdJzRx
