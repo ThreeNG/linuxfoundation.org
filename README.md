@@ -8,7 +8,7 @@ http://e-learning-teleformacion.blogspot.jp/2017/09/learn-about-your-personality
 http://dalliard.net/files/ravenispi.php
 https://ubuntuforums.org/showthread.php?t=1003466
 http://www.elle.vn/boi-vui/thai-cua-12-cung-hoang-dao-doi-voi-chong-ra-sao
-
+https://www.pcsuggest.com/install-glmark2-debian/
 http://elinux.org/ELC_2017_Presentations
 https://en.wikichip.org/wiki/renesas/r-car/h3
 https://en.wikichip.org/wiki/renesas/r-car/m3
