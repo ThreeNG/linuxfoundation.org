@@ -1,0 +1,22 @@
+2-1_FutureMark
+Could not find the benchmark for Linux. Futuremark1 offers benchmarks for Windows, iOS and Android.
+No information about Linux environment support.
+RVC/GFX confirmed that they don't have Futuremark.
+2-5_glmark2_2012
+It's at https://launchpad.net/glmark2/+download.
+Direct link is https://launchpad.net/glmark2/trunk/2012.12/+download/glmark2-2012.12.tar.gz
+2-6_glmark2_2014
+It's at https://launchpad.net/glmark2/+download.
+Direct link is https://launchpad.net/glmark2/trunk/2014.03/+download/glmark2-2014.03.tar.gz
+There's the git repo at 
+RVC/GFX confirmed that they have had glmark2. But it's not clear whether it's version 2012 or 2014.
+2-10_GfxBench27
+2-11_GfxBench30
+2-12_GfxBench31
+In the community, able to download GFXBench 4.0 at [2]. No links to other versions.
+RVC/GFX confirmed that they have had GFXBench 3.0 and 3.1. But they don't have GFXBench 2.7.
+[1]
+https://www.futuremark.com/support/downloads
+https://benchmarks.ul.com/?_ga=2.224733778.978596544.1506064887-1636306382.1506064887
+[2]
+https://gfxbench.com/linux-download/
