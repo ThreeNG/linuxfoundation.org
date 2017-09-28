@@ -6,6 +6,20 @@ perl -pi -e 's/set mouse=a/"set mouse=a/g' ~/.vimrc
 cat /etc/apt/apt.conf
 
 
+Acquire::http::proxy "http://nghianguyen:pass@172.29.137.2:8080/";
+Acquire::https::proxy "https://nghianguyen:pass@172.29.137.2:8080/";
+Acquire::ftp::proxy "ftp://nghianguyen:pass@172.29.137.2:8080/";
+Acquire::socks::proxy "socks://nghianguyen:pass@172.29.137.2:8080/";
+
+
+export https::proxy "https://nghianguyen:pass@172.29.137.2:8080"
+
+    
+
+
+
+
+
 https://www.itworld.com/article/2832766/development/linux-tip--using-the-read-command.html
 http://usualpanic.com/2013/05/raspberry-pi-internet-radio/
 https://stackoverflow.com/documentation/makefile/1793/getting-started-with-makefile#t=201709130625211270094
