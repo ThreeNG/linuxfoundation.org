@@ -12,7 +12,7 @@ Acquire::ftp::proxy "ftp://nghianguyen:pass@172.29.137.2:8080/";
 Acquire::socks::proxy "socks://nghianguyen:pass@172.29.137.2:8080/";
 
 
-export https::proxy "https://nghianguyen:pass@172.29.137.2:8080"
+export https_proxy="http://nghianguyen:Horseplay1992@172.29.137.2:8080"
 
     
 
