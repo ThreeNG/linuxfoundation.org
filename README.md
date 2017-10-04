@@ -5,6 +5,7 @@ perl -pi -e 's/set mouse=a/"set mouse=a/g' ~/.vimrc
 
 cat /etc/apt/apt.conf
 
+https://www.imgtec.com/blog
 
 Acquire::http::proxy "http://nghianguyen:pass@172.29.137.2:8080/";
 Acquire::https::proxy "https://nghianguyen:pass@172.29.137.2:8080/";
