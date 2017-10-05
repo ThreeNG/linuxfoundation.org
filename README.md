@@ -2,6 +2,8 @@
 
 https://explainshell.com/
 
+https://play.google.com/books/reader?printsec=frontcover&output=reader&id=TgwWAgAAQBAJ&pg=GBS.PA79.w.0.0.0.0.1
+
 visual mode mouse
 perl -pi -e 's/set mouse=a/"set mouse=a/g' ~/.vimrc
 
