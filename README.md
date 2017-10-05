@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://explainshell.com/
+
 visual mode mouse
 perl -pi -e 's/set mouse=a/"set mouse=a/g' ~/.vimrc
 
