@@ -6,6 +6,8 @@ Mã số đơn hàng của bạn:
 
 46558527
 
+http://reviewdao.vn/rv5/Tin-tuc-4793/Cach-cai-CH-Play-va-cac-ung-dung-Android-cho-cac-thiet-bi-chay-BBOS.html
+
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=srUZAwAAAEAJ&pg=GBS.PA11
 
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=TgwWAgAAQBAJ&pg=GBS.PA79.w.0.0.0.0.1
