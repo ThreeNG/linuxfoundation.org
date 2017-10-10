@@ -2,9 +2,10 @@
 
 https://explainshell.com/
 
-Mã số đơn hàng của bạn:
-
-46558527
+modern talking
+bonney M
+abba
+fool garden
 
 http://reviewdao.vn/rv5/Tin-tuc-4793/Cach-cai-CH-Play-va-cac-ung-dung-Android-cho-cac-thiet-bi-chay-BBOS.html
 
