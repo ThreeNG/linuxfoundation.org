@@ -2,6 +2,8 @@
 
 https://explainshell.com/
 
+https://www.youtube.com/watch?v=0A3irPuzn_8
+
 modern talking
 bonney M
 abba
