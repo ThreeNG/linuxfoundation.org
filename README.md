@@ -9,6 +9,8 @@ fool garden
 befour
 http://reviewdao.vn/rv5/Tin-tuc-4793/Cach-cai-CH-Play-va-cac-ung-dung-Android-cho-cac-thiet-bi-chay-BBOS.html
 
+http://www.electronicdesign.com/automotive/nvidia-builds-computer-system-fully-autonomous-cars
+
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=srUZAwAAAEAJ&pg=GBS.PA11
 
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=TgwWAgAAQBAJ&pg=GBS.PA79.w.0.0.0.0.1
