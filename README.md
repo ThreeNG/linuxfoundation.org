@@ -2,6 +2,15 @@
 
 https://explainshell.com/
 
+October 2013 onwards:
+INC-J (*): 69%
+NEC: 9%
+Hitachi: 8%
+Mitsubishi: 6%
+Toyota: 2%
+Nissan: 1%
+
+
 https://www.youtube.com/watch?v=0A3irPuzn_8
 
 modern talking
