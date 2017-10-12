@@ -2,9 +2,9 @@
 
 https://explainshell.com/
 
-2002 2003
+2009
 areas of green energy, electronics, IT and biotechnology to infrastructure-related sectors such as water supply. Each investment will be thoroughly vetted to ensure it meets the exacting standards of INCJ's Innovation Network Committee, which will make the final investment decisions
-
+2002 2003
 October 2013 onwards:
 INC-J (*): 69%
 NEC: 9%
