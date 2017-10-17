@@ -4,6 +4,8 @@ http://inst.eecs.berkeley.edu/~selfpace/unix/
 
 https://elinux.org/Bitbake_Cheat_Sheet
 
+https://www.openembedded.org/wiki/Styleguide
+
 cat /etc/os-release 
 
 FXAA requires:
