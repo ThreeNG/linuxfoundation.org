@@ -2,6 +2,8 @@
 
 http://inst.eecs.berkeley.edu/~selfpace/unix/
 
+cat /etc/os-release 
+
 FXAA requires:
 
 1: a single rendering of the scene (color & depth)
