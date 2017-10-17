@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+http://inst.eecs.berkeley.edu/~selfpace/unix/
+
 https://www.udemy.com
 
 https://www.coursera.org
