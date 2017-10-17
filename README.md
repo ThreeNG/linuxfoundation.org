@@ -2,6 +2,12 @@
 
 http://inst.eecs.berkeley.edu/~selfpace/unix/
 
+FXAA requires:
+
+1: a single rendering of the scene (color & depth)
+2: reads from the scene's depth buffer to compute edges that computes the scene's edge buffer
+3: reads from the scene's image and edge buffers to produce the final image
+
 grep -nr "glTexImage2DMultisample*" .
 
 https://books.google.co.jp/books?id=fKO_CQAAQBAJ&dq=FXAA+requires&source=gbs_navlinks_s
