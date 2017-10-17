@@ -6,6 +6,8 @@ https://elinux.org/Bitbake_Cheat_Sheet
 https://elinux.org/RPi_USB_Wi-Fi_Adapters
 https://www.raspberrypi.org/forums/viewtopic.php?t=57426
 
+https://www.youtube.com/watch?v=qHX8eAqb7gM
+
 http://linux-wless.passys.nl/
 
 https://wiki.debian.org/WiFi
