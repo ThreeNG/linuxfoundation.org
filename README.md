@@ -2,6 +2,8 @@
 
 http://inst.eecs.berkeley.edu/~selfpace/unix/
 
+https://elinux.org/Bitbake_Cheat_Sheet
+
 cat /etc/os-release 
 
 FXAA requires:
