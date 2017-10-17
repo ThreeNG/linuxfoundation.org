@@ -2,6 +2,8 @@
 
 http://inst.eecs.berkeley.edu/~selfpace/unix/
 
+https://books.google.co.jp/books?id=fKO_CQAAQBAJ&dq=FXAA+requires&source=gbs_navlinks_s
+
 https://www.khronos.org/opengles/
 
 https://www.udemy.com
