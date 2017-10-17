@@ -4,6 +4,12 @@ http://inst.eecs.berkeley.edu/~selfpace/unix/
 http://bec-systems.com/site/tag/openembedded
 https://elinux.org/Bitbake_Cheat_Sheet
 
+http://linux-wless.passys.nl/
+
+https://wiki.debian.org/WiFi
+
+https://raspberrypi.stackexchange.com/questions/48352/how-to-connect-wifi-adapter-tp-link-tl-wn722nc-with-raspberry-pi-model-b
+
 https://www.openembedded.org/wiki/Styleguide
 
 cat /etc/os-release 
