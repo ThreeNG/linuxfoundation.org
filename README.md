@@ -1,5 +1,9 @@
 #linuxfoundation.org
 
+https://www.udemy.com
+
+https://www.coursera.org
+
 https://appworld.blackberry.com/webstore/content/20080693/
 
 https://sourceforge.net/projects/sshwindows/
