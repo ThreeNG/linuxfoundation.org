@@ -4,6 +4,8 @@ http://inst.eecs.berkeley.edu/~selfpace/unix/
 http://bec-systems.com/site/tag/openembedded
 https://elinux.org/Bitbake_Cheat_Sheet
 
+https://www.raspberrypi.org/forums/viewtopic.php?t=57426
+
 http://linux-wless.passys.nl/
 
 https://wiki.debian.org/WiFi
