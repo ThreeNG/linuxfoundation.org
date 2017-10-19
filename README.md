@@ -1,10 +1,15 @@
 #linuxfoundation.org
 
+https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=62371&start=1225
+
+
 http://inst.eecs.berkeley.edu/~selfpace/unix/
 http://bec-systems.com/site/tag/openembedded
 https://elinux.org/Bitbake_Cheat_Sheet
 https://elinux.org/RPi_USB_Wi-Fi_Adapters
 https://www.raspberrypi.org/forums/viewtopic.php?t=57426
+
+
 
 https://www.youtube.com/watch?v=qHX8eAqb7gM
 
