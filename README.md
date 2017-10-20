@@ -1,5 +1,11 @@
 #linuxfoundation.org
 
+https://mcuoneclipse.com/2016/12/27/vnc-server-on-raspberry-pi-with-autostart/
+
+
+
+
+
 https://raspberrypi.stackexchange.com/questions/27676/auto-start-tightvncserver-on-raspberry-pi-2
 cp tightvncserver /etc/init.d/
 
