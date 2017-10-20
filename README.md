@@ -2,6 +2,8 @@
 
 https://mcuoneclipse.com/2016/12/27/vnc-server-on-raspberry-pi-with-autostart/
 
+midpssh or mobilessh.
+BBSHH
 
 JuiceSSH
 
