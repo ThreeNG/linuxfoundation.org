@@ -1,5 +1,8 @@
 #linuxfoundation.org
 
+https://raspberrypi.stackexchange.com/questions/27676/auto-start-tightvncserver-on-raspberry-pi-2
+cp tightvncserver /etc/init.d/
+
 https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=62371&start=1225
 
 
