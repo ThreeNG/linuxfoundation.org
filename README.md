@@ -5,6 +5,9 @@ cp tightvncserver /etc/init.d/
 
 https://elinux.org/RPi_VNC_Server#Instructions
 
+
+https://www.raspberrypi.org/forums/viewtopic.php?t=123457
+
 https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=62371&start=1225
 
 
