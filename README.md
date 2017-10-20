@@ -5,6 +5,13 @@ cp tightvncserver /etc/init.d/
 
 https://elinux.org/RPi_VNC_Server#Instructions
 
+1. ssh to the raspberry and log on.
+2. enter the command: vncserver :1 (there is a space between "er" and ":1".
+
+3. On your remote computer, connect to your raspberry ip address appended with :1; for example,
+192.168.1.163:1
+
+
 
 https://www.raspberrypi.org/forums/viewtopic.php?t=123457
 
