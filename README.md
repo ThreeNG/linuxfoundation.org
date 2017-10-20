@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://www.slant.co/topics/1629/~single-board-computers
+
 https://mcuoneclipse.com/2016/12/27/vnc-server-on-raspberry-pi-with-autostart/
 
 midpssh or mobilessh.
