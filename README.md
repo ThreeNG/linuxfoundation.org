@@ -7,6 +7,8 @@ https://mcuoneclipse.com/2016/12/27/vnc-server-on-raspberry-pi-with-autostart/
 https://www.pidramble.com/wiki/benchmarks/networking
 
 http://elk.informatik.hs-augsburg.de/tmp/elinux/Buecher/Embedded-Linux-Development-with-Yocto.pdf
+https://hackaday.com/2010/08/11/how-to-launchpad-programming-with-linux/
+
 
 midpssh or mobilessh.
 BBSHH
