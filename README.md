@@ -10,7 +10,17 @@ git stash apply
 
 git diff --staged
 
+git branch ...
+git checkout ...
+
+= git checkout -b branch
+
+git checkout master
+git merge ...
+
 quilt is used to apply patches
+
+
 
 compute intensive performance, which means these benchmarks emphasize the performance of:
 
