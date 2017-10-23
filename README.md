@@ -1,5 +1,15 @@
 #linuxfoundation.org
 
+SPEC CPU2006 focuses on compute intensive performance, which means these benchmarks emphasize the performance of:
+
+    the computer processor (CPU),
+    the memory architecture, and
+    the compilers.
+
+It is important to remember the contribution of the latter two components. SPEC CPU performance intentionally depends on more than just the processor.
+
+A benchmark is "a standard of measurement or evaluation" (Webster’s II Dictionary). A computer benchmark is typically a computer program that performs a strictly defined set of operations - a workload - and returns some form of result - a metric - describing how the tested computer performed. Computer benchmark metrics usually measure speed: how fast was the workload completed; or throughput: how many workload units per unit time were completed. Running the same computer benchmark on multiple computers allows a comparison to be made.
+
 https://www.slant.co/topics/1629/~single-board-computers
 https://docstore.mik.ua/orelly/unix/ksh/index.htm
 https://mcuoneclipse.com/2016/12/27/vnc-server-on-raspberry-pi-with-autostart/
