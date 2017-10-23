@@ -1,6 +1,8 @@
 #linuxfoundation.org
 
-SPEC CPU2006 focuses on compute intensive performance, which means these benchmarks emphasize the performance of:
+quilt is used to apply patches
+
+compute intensive performance, which means these benchmarks emphasize the performance of:
 
     the computer processor (CPU),
     the memory architecture, and
