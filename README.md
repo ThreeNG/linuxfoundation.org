@@ -2,6 +2,8 @@
 
 git remote add origin https://github.com/try-git/try_git.git
 
+git diff HEAD
+
 quilt is used to apply patches
 
 compute intensive performance, which means these benchmarks emphasize the performance of:
