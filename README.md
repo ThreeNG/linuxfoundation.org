@@ -6,6 +6,8 @@ https://mcuoneclipse.com/2016/12/27/vnc-server-on-raspberry-pi-with-autostart/
 
 https://www.pidramble.com/wiki/benchmarks/networking
 
+http://elk.informatik.hs-augsburg.de/tmp/elinux/Buecher/Embedded-Linux-Development-with-Yocto.pdf
+
 midpssh or mobilessh.
 BBSHH
 Term48 in BlackBerry World : great application
