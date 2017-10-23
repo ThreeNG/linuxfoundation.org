@@ -4,6 +4,8 @@ https://www.slant.co/topics/1629/~single-board-computers
 https://docstore.mik.ua/orelly/unix/ksh/index.htm
 https://mcuoneclipse.com/2016/12/27/vnc-server-on-raspberry-pi-with-autostart/
 
+https://www.pidramble.com/wiki/benchmarks/networking
+
 midpssh or mobilessh.
 BBSHH
 Term48 in BlackBerry World : great application
