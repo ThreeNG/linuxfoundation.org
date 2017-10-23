@@ -8,6 +8,8 @@ git stash
 
 git stash apply
 
+git diff --staged
+
 quilt is used to apply patches
 
 compute intensive performance, which means these benchmarks emphasize the performance of:
