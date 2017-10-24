@@ -92,6 +92,8 @@ FXAA requires:
 2: reads from the scene's depth buffer to compute edges that computes the scene's edge buffer
 3: reads from the scene's image and edge buffers to produce the final image
 
+sed -i 's/EXEC_ES20=0/EXEC_ES20=1/g' $TEST_PATH/run_OGLES2_OGLES3.sh
+
 grep -nr "glTexImage2DMultisample*" .
 
 https://books.google.co.jp/books?id=fKO_CQAAQBAJ&dq=FXAA+requires&source=gbs_navlinks_s
