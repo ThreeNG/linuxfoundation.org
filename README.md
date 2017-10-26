@@ -2,6 +2,8 @@
 
 boyceavenue
 
+http://pdf.th7.cn/down/files/1508/Embedded%20Linux%20Projects%20Using%20Yocto%20Project%20Cookbook.pdf
+
 https://archive.org/stream/andtherewasameri00duvo#page/22/mode/2up
 
 git remote add origin https://github.com/try-git/try_git.git
