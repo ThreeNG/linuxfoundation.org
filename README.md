@@ -6,6 +6,8 @@ http://pdf.th7.cn/down/files/1508/Embedded%20Linux%20Projects%20Using%20Yocto%20
 
 https://archive.org/stream/andtherewasameri00duvo#page/22/mode/2up
 
+168 Đất Mới, BÌnh Tân, Hồ Chí Minh, Việt Nam
+
 git remote add origin https://github.com/try-git/try_git.git
 
 git diff HEAD
