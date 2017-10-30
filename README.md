@@ -2,6 +2,8 @@
 
 boyceavenue
 
+https://docs.google.com/uc?id=0BwfHYWGxXQiQQ2ktbWtzZl9xMzA&export=download
+
 http://pdf.th7.cn/down/files/1508/Embedded%20Linux%20Projects%20Using%20Yocto%20Project%20Cookbook.pdf
 
 https://archive.org/stream/andtherewasameri00duvo#page/22/mode/2up
