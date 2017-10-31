@@ -4,6 +4,7 @@ boyceavenue
 https://www.youtube.com/watch?v=tc4ROCJYbm0
 /etc/ssh/sshd_config 
 service ssh restart
+https://p1k3.com/userland-book/
 http://blog.scoutapp.com/articles/2009/07/31/understanding-load-averages
 https://learn.adafruit.com/embedded-linux-board-comparison
 https://github.com/CircuitCo/BeagleBone-Black/blob/master/BBB_SRM.pdf?raw=true
