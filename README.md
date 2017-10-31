@@ -4,9 +4,10 @@ boyceavenue
 https://www.youtube.com/watch?v=tc4ROCJYbm0
 /etc/ssh/sshd_config 
 service ssh restart
+http://blog.scoutapp.com/articles/2009/07/31/understanding-load-averages
 https://learn.adafruit.com/embedded-linux-board-comparison
 https://github.com/CircuitCo/BeagleBone-Black/blob/master/BBB_SRM.pdf?raw=true
-
+https://learn.adafruit.com/an-illustrated-shell-command-primer/checking-file-space-usage-du-and-df
 https://xkcd.com/
 Linux is a gateway to half a century’s worth of accumulated knowledge, and a bridge from your work to the wider world.
 
