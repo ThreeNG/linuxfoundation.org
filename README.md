@@ -2,6 +2,8 @@
 
 boyceavenue
 
+Linux is a gateway to half a century’s worth of accumulated knowledge, and a bridge from your work to the wider world.
+
 https://docs.google.com/uc?id=0BwfHYWGxXQiQQ2ktbWtzZl9xMzA&export=download
 
 http://pdf.th7.cn/down/files/1508/Embedded%20Linux%20Projects%20Using%20Yocto%20Project%20Cookbook.pdf
