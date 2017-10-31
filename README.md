@@ -2,7 +2,7 @@
 
 boyceavenue
 https://www.youtube.com/watch?v=tc4ROCJYbm0
-
+/etc/ssh/sshd_config 
 https://learn.adafruit.com/embedded-linux-board-comparison
 https://github.com/CircuitCo/BeagleBone-Black/blob/master/BBB_SRM.pdf?raw=true
 
