@@ -1,7 +1,7 @@
 #linuxfoundation.org
 
 boyceavenue
-
+https://learn.adafruit.com/embedded-linux-board-comparison
 https://github.com/CircuitCo/BeagleBone-Black/blob/master/BBB_SRM.pdf?raw=true
 
 https://xkcd.com/
