@@ -1,6 +1,9 @@
 #linuxfoundation.org
 
 boyceavenue
+
+https://github.com/CircuitCo/BeagleBone-Black/blob/master/BBB_SRM.pdf?raw=true
+
 https://xkcd.com/
 Linux is a gateway to half a century’s worth of accumulated knowledge, and a bridge from your work to the wider world.
 
