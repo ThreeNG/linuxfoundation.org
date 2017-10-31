@@ -1,7 +1,7 @@
 #linuxfoundation.org
 
 boyceavenue
-
+https://xkcd.com/
 Linux is a gateway to half a century’s worth of accumulated knowledge, and a bridge from your work to the wider world.
 
 https://docs.google.com/uc?id=0BwfHYWGxXQiQQ2ktbWtzZl9xMzA&export=download
