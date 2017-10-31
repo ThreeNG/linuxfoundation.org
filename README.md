@@ -1,6 +1,8 @@
 #linuxfoundation.org
 
 boyceavenue
+https://www.youtube.com/watch?v=tc4ROCJYbm0
+
 https://learn.adafruit.com/embedded-linux-board-comparison
 https://github.com/CircuitCo/BeagleBone-Black/blob/master/BBB_SRM.pdf?raw=true
 
