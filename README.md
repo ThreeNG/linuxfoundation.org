@@ -1,5 +1,7 @@
 #linuxfoundation.org
-
+http://www.tik.ee.ethz.ch/education/lectures/ES/slides/6_RTOS.pdf
+https://www.coursera.org/learn/real-time-systems?authMode=login
+https://www.cyberciti.biz/faq/ksh-for-loop/
 https://learn.adafruit.com/category/linux
 boyceavenue
 https://www.youtube.com/watch?v=tc4ROCJYbm0
