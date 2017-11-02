@@ -1,4 +1,6 @@
 #linuxfoundation.org
+
+http://www.thegeekstuff.com
 https://www.element14.com/community/community/raspberry-pi/raspberrypi_projects/blog/2017/10/19/build-your-own-fitness-tracker-using-raspberry-pi
 http://www.tik.ee.ethz.ch/education/lectures/ES/slides/6_RTOS.pdf
 https://www.coursera.org/learn/real-time-systems?authMode=login
