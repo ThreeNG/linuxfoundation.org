@@ -1,21 +1,40 @@
 #linuxfoundation.org
 https://s-hub.vn/ho-chi-minh/dat-cho/tham-gia-su-kien
+
+http://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/
+
 http://www.thegeekstuff.com
+
 https://www.element14.com/community/community/raspberry-pi/raspberrypi_projects/blog/2017/10/19/build-your-own-fitness-tracker-using-raspberry-pi
+
 http://www.tik.ee.ethz.ch/education/lectures/ES/slides/6_RTOS.pdf
+
 https://www.coursera.org/learn/real-time-systems?authMode=login
+
 https://www.cyberciti.biz/faq/ksh-for-loop/
+
 https://learn.adafruit.com/category/linux
+
 boyceavenue
+
 https://www.youtube.com/watch?v=tc4ROCJYbm0
+
 /etc/ssh/sshd_config 
+
 service ssh restart
+
 https://p1k3.com/userland-book/
+
 http://blog.scoutapp.com/articles/2009/07/31/understanding-load-averages
+
 https://learn.adafruit.com/embedded-linux-board-comparison
+
 https://github.com/CircuitCo/BeagleBone-Black/blob/master/BBB_SRM.pdf?raw=true
+
 https://learn.adafruit.com/an-illustrated-shell-command-primer/checking-file-space-usage-du-and-df
+
 https://xkcd.com/
+
 Linux is a gateway to half a century’s worth of accumulated knowledge, and a bridge from your work to the wider world.
 
 https://docs.google.com/uc?id=0BwfHYWGxXQiQQ2ktbWtzZl9xMzA&export=download
@@ -59,12 +78,15 @@ It is important to remember the contribution of the latter two components. SPEC 
 A benchmark is "a standard of measurement or evaluation" (Webster’s II Dictionary). A computer benchmark is typically a computer program that performs a strictly defined set of operations - a workload - and returns some form of result - a metric - describing how the tested computer performed. Computer benchmark metrics usually measure speed: how fast was the workload completed; or throughput: how many workload units per unit time were completed. Running the same computer benchmark on multiple computers allows a comparison to be made.
 
 https://www.slant.co/topics/1629/~single-board-computers
+
 https://docstore.mik.ua/orelly/unix/ksh/index.htm
+
 https://mcuoneclipse.com/2016/12/27/vnc-server-on-raspberry-pi-with-autostart/
 
 https://www.pidramble.com/wiki/benchmarks/networking
 
 http://elk.informatik.hs-augsburg.de/tmp/elinux/Buecher/Embedded-Linux-Development-with-Yocto.pdf
+
 https://hackaday.com/2010/08/11/how-to-launchpad-programming-with-linux/
 
 
@@ -93,9 +115,13 @@ https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=62371&start=1225
 
 
 http://inst.eecs.berkeley.edu/~selfpace/unix/
+
 http://bec-systems.com/site/tag/openembedded
+
 https://elinux.org/Bitbake_Cheat_Sheet
+
 https://elinux.org/RPi_USB_Wi-Fi_Adapters
+
 https://www.raspberrypi.org/forums/viewtopic.php?t=57426
 
 
@@ -205,15 +231,26 @@ export https_proxy="http://nghianguyen:Horseplay1992@172.29.137.2:8080"
 
 
 https://www.itworld.com/article/2832766/development/linux-tip--using-the-read-command.html
+
 http://usualpanic.com/2013/05/raspberry-pi-internet-radio/
+
 https://stackoverflow.com/documentation/makefile/1793/getting-started-with-makefile#t=201709130625211270094
+
 http://apolukhin.github.io/Boost-Cookbook/
+
 http://e-learning-teleformacion.blogspot.jp/2017/09/learn-about-your-personality-type.html#.WcG_0EdJzRx
+
+
 http://dalliard.net/files/ravenispi.php
+
 https://ubuntuforums.org/showthread.php?t=1003466
+
 http://www.elle.vn/boi-vui/thai-cua-12-cung-hoang-dao-doi-voi-chong-ra-sao
+
 https://www.pcsuggest.com/install-glmark2-debian/
+
 http://elinux.org/ELC_2017_Presentations
+
 https://en.wikichip.org/wiki/renesas/r-car/h3
 https://en.wikichip.org/wiki/renesas/r-car/m3
 
@@ -226,7 +263,9 @@ http://git.yoctoproject.org/cgit/cgit.cgi/yocto-docs/
 http://thegioiic.com/services/phat-trien-phan-mem-nhung-embedded-software-development-services
 
 https://stackoverflow.com/documentation/bash/3949/keyboard-shortcuts#t=201709050902518007229
+
 https://stackoverflow.com/documentation/vim/879/getting-started-with-vim#t=201709050851135590219
+
 https://tinhte.vn/threads/nhung-thong-tin-can-biet-ve-soc-bon-nhan-danh-cho-thiet-bi-di-dong.1909229/
 
 Qualcomm với nhân Krait, Apple với nhân tùy biến trong A6 là hai cái tên được biết đến rộng rãi trong việc sử dụng hình thức cấp bản quyền thứ hai của ARM. Ngoài ra chúng ta còn có Marvell với nhân XScale, NVIDIA thì có dự án Denver.
