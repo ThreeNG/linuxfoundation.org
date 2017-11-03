@@ -1,4 +1,7 @@
 #linuxfoundation.org
+
+ cat ~/.ssh/id_rsa.pub |ssh pi@192.168.1.65 ‘cat >> ~/.ssh/authorized_keys’
+
 https://s-hub.vn/ho-chi-minh/dat-cho/tham-gia-su-kien
 
 http://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/
