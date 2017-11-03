@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://www.scribd.com/document/356602915/Nh%E1%BA%A1p-Mon-Lap-Trinh-Khong-Code-Toidicodedao
+
  cat ~/.ssh/id_rsa.pub |ssh pi@192.168.1.65 ‘cat >> ~/.ssh/authorized_keys’
 
 https://s-hub.vn/ho-chi-minh/dat-cho/tham-gia-su-kien
