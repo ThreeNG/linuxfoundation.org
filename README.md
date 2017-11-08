@@ -1,6 +1,8 @@
 #linuxfoundation.org
 
 
+for file in *.tar.bz2; do tar -jxf $file; done
+
 https://www.sdcard.org/developers/overview/speed_class/index.html
 
 https://www.scribd.com/document/356602915/Nh%E1%BA%A1p-Mon-Lap-Trinh-Khong-Code-Toidicodedao
