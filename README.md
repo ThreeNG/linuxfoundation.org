@@ -3,6 +3,8 @@
 
 for file in *.tar.bz2; do tar -jxf $file; done
 
+https://askubuntu.com/questions/56083/how-to-set-up-ssh-connection-acessible-over-internet-not-lan-using-mts-mblaze
+
 https://www.sdcard.org/developers/overview/speed_class/index.html
 
 https://www.scribd.com/document/356602915/Nh%E1%BA%A1p-Mon-Lap-Trinh-Khong-Code-Toidicodedao
