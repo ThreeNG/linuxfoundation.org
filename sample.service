@@ -1,0 +1,10 @@
+[Unit]
+Description=My Sample Service
+After=multi-user.target
+
+[Service]
+Type=idle
+ExecStart=/bin/bash /home/pi/sample.sh
+
+[Install]
+WantedBy=multi-user.target
