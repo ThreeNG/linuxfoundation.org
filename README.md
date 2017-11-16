@@ -1,6 +1,10 @@
 #linuxfoundation.org
 
 
+sudo systemctl daemon-reload
+sudo systemctl enable sample.service
+
+
 http://free-electrons.com/docs/
 
 for file in *.tar.bz2; do tar -jxf $file; done
