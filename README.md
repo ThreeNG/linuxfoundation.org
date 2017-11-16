@@ -1,6 +1,8 @@
 #linuxfoundation.org
 
 
+http://free-electrons.com/docs/
+
 for file in *.tar.bz2; do tar -jxf $file; done
 
 https://askubuntu.com/questions/56083/how-to-set-up-ssh-connection-acessible-over-internet-not-lan-using-mts-mblaze
