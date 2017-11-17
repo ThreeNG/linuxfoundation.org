@@ -4,6 +4,16 @@
 sudo systemctl daemon-reload
 sudo systemctl enable sample.service
 
+http://mirrordirector.raspbian.org/raspbian/pool/main/f/ffmpeg/libavutil55_3.2.5-1_armhf.deb 
+
+http://mirrordirector.raspbian.org/raspbian/pool/main/o/openjpeg2/libopenjp2-7_2.1.2-1.1_armhf.deb 
+
+ http://mirrordirector.raspbian.org/raspbian/pool/main/f/ffmpeg/libswresample2_3.2.5-1_armhf.deb 
+ 
+ http://mirrordirector.raspbian.org/raspbian/pool/main/f/ffmpeg/libavcodec57_3.2.5-1_armhf.deb
+ 
+ http://mirrordirector.raspbian.org/raspbian/pool/main/f/ffmpeg/libavformat57_3.2.5-1_armhf.deb
+
 
 http://free-electrons.com/docs/
 
