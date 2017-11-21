@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://www.khronos.org/opengl/wiki/Performance
+
 63/62 Luu Trong Lu, Tan Thuan Dong, District 7
 
 sudo systemctl daemon-reload
