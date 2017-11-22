@@ -2,6 +2,7 @@
 
 http://www.tldp.org/LDP/intro-linux/intro-linux.pdf
 
+tmux attach-session -t 0
 
 http://linuxcommand.org/lc3_adv_termmux.php
 
