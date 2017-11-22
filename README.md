@@ -1,5 +1,8 @@
 #linuxfoundation.org
 
+http://www.tldp.org/LDP/intro-linux/intro-linux.pdf
+
+
 http://linuxcommand.org/lc3_adv_termmux.php
 
 https://www.khronos.org/opengl/wiki/Performance
