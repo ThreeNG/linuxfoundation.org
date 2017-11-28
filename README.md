@@ -3,7 +3,7 @@
 http://www.tldp.org/LDP/intro-linux/intro-linux.pdf
 
  npm install gtop -g 
-
+https://www.tutorialspoint.com/perl/perl_tutorial.pdf
 tmux attach-session -t 0
 
 http://linuxcommand.org/lc3_adv_termmux.php
