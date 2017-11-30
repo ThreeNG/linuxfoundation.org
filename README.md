@@ -2,6 +2,8 @@
 
 http://www.tldp.org/LDP/intro-linux/intro-linux.pdf
 
+http://dev.lab427.net/
+
 https://gist.github.com/u0d7i
 
  npm install gtop -g 
