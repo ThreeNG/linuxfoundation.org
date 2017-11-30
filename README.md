@@ -2,6 +2,8 @@
 
 http://www.tldp.org/LDP/intro-linux/intro-linux.pdf
 
+https://gist.github.com/u0d7i
+
  npm install gtop -g 
 https://www.tutorialspoint.com/perl/perl_tutorial.pdf
 tmux attach-session -t 0
