@@ -2,6 +2,8 @@
 
 http://www.songho.ca/opengl/index.html
 
+http://dilbert.com/search_results?terms=open+plan+office
+
 http://www.tldp.org/LDP/intro-linux/intro-linux.pdf
 
 http://dev.lab427.net/
