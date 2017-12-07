@@ -1,5 +1,20 @@
 #linuxfoundation.org
 
+
+http://www.tldp.org/
+
+https://www.linuxquestions.org/
+
+www.google.com/linux
+
+https://slashdot.org/
+
+http://www.posix.com/posix.html
+
+www.linuxhq.com
+
+https://slashdot.org/
+
 http://www.songho.ca/opengl/index.html
 
 http://dilbert.com/search_results?terms=open+plan+office
