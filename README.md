@@ -7,6 +7,14 @@ https://www.linuxquestions.org/
 
 www.google.com/linux
 
+http://www.alphalinux.org/wiki/index.php/Main_Page
+
+www.linux-mips.org
+
+http://tldp.org/LDP/Mobile-Guide/html/index.html
+
+www.mklinux.org
+
 https://slashdot.org/
 
 http://www.posix.com/posix.html
