@@ -1,6 +1,8 @@
 #linuxfoundation.org
 
 
+https://archive.org/details/computer-programming
+
 http://www.tldp.org/
 
 https://www.linuxquestions.org/
