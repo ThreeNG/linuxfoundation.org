@@ -2,6 +2,8 @@
 
 http://977todayshits.radio.net/
 
+https://www.indiabix.com/computer-science/unix/
+
 https://www.indiabix.com/
 
 https://www.collabora.com/news-and-blog/blog/2016/06/03/running-weston-on-a-raspbian/
