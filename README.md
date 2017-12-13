@@ -3,6 +3,8 @@
 
 https://www.indiabix.com/
 
+https://www.collabora.com/news-and-blog/blog/2016/06/03/running-weston-on-a-raspbian/
+
 https://tiki.vn/1212?utm_source=appboy&utm_medium=noti-web&utm_campaign=NO_ABW_EV@-12-12-@UM171202&utm_content=121217
 
 https://archive.org/details/computer-programming
