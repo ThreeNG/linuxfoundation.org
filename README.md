@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+http://www.manythings.org/voa/people/Philo_Farnsworth.html
+
 https://dri.freedesktop.org/wiki/DRM/
 
 http://977todayshits.radio.net/
