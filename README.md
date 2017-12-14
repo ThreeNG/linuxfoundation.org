@@ -2,6 +2,8 @@
 
 http://www.manythings.org/voa/people/Philo_Farnsworth.html
 
+https://archive.org/stream/yourlifepopularg21lurtrich
+
 https://dri.freedesktop.org/wiki/DRM/
 
 http://977todayshits.radio.net/
