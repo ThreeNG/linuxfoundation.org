@@ -2,6 +2,8 @@
 
 https://docs.particle.io/guide/getting-started/start/raspberry-pi/
 
+https://www.raspberrypi.org/documentation/hardware/raspberrypi/README.md
+
 http://www.manythings.org/voa/people/Philo_Farnsworth.html
 
 https://archive.org/stream/yourlifepopularg21lurtrich
