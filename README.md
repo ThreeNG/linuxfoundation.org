@@ -3,6 +3,9 @@
 https://docs.particle.io/guide/getting-started/start/raspberry-pi/
 
 https://cayenne.mydevices.com/cayenne/dashboard/first-visit/raspberrypi/step-3
+
+https://github.com/renesas-rcar/u-boot
+
 Terminal / SSH
 
 To download and install myDevices Cayenne on your Pi, use the Terminal on your Pi or SSH. Run the following commands:
@@ -10,6 +13,8 @@ To download and install myDevices Cayenne on your Pi, use the Terminal on your P
 wget https://cayenne.mydevices.com/dl/rpi_3qn7jol6wd.sh
 
 sudo bash rpi_3qn7jol6wd.sh -v
+
+
 https://cayenne.mydevices.com/cayenne/dashboard/first-visit/raspberrypi/step-3
 
 https://www.raspberrypi.org/documentation/hardware/raspberrypi/README.md
