@@ -2,6 +2,9 @@
 
 http://vulkan.gpuinfo.org/
 
+http://vulkan.gpuinfo.org/displayreport.php?id=1999#device
+
+http://vulkan.gpuinfo.org/displayreport.php?id=1575
 
 https://docs.particle.io/guide/getting-started/start/raspberry-pi/
 
