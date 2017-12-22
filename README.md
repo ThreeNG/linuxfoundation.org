@@ -1,5 +1,11 @@
 #linuxfoundation.org
 
+ export out_dir=`date | sed 's/ //g'`
+  mkdir -p /tftpboot/Gfx_result/"${IPADDR}_${out_dir}"
+  sshpass -e scp -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null ${LOGIN}@${IPADDR}:/home/root/3D_2D_env/*/Result/*.csv /tftpboot/Gfx_result/"${IPADDR}_${out_dir}"
+
+
+
 http://vulkan.gpuinfo.org/
 
 http://vulkan.gpuinfo.org/displayreport.php?id=1999#device
