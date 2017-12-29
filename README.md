@@ -1,5 +1,10 @@
 #linuxfoundation.org
 
+https://doc.lagout.org/operating%20system%20/linux/Beginning%20Linux%20Programming%2C%204%20Ed.pdf
+
+
+https://books.google.co.jp/books?id=vvuzDziOMeMC&lpg=PT487&ots=wamA4hqfQR&dq=built-in%20rules%20%20%24(CFLAGS)&pg=PT27#v=onepage&q&f=false
+
  export out_dir=`date | sed 's/ //g'`
   mkdir -p /tftpboot/Gfx_result/"${IPADDR}_${out_dir}"
   sshpass -e scp -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null ${LOGIN}@${IPADDR}:/home/root/3D_2D_env/*/Result/*.csv /tftpboot/Gfx_result/"${IPADDR}_${out_dir}"
