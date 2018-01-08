@@ -4,6 +4,9 @@ https://github.com/agherzan/meta-raspberrypi
 
 https://doc.lagout.org/operating%20system%20/linux/Beginning%20Linux%20Programming%2C%204%20Ed.pdf
 
+
+https://www.behindthename.com/names/usage/vietnamese
+
 http://hyperpolyglot.org/
 
 https://books.google.co.jp/books?id=vvuzDziOMeMC&lpg=PT487&ots=wamA4hqfQR&dq=built-in%20rules%20%20%24(CFLAGS)&pg=PT27#v=onepage&q&f=false
