@@ -1,5 +1,9 @@
 #linuxfoundation.org
 
+Doccument
+https://archive.org/details/stackexchange
+
+
 https://github.com/agherzan/meta-raspberrypi
 
 https://doc.lagout.org/operating%20system%20/linux/Beginning%20Linux%20Programming%2C%204%20Ed.pdf
