@@ -3,6 +3,8 @@
 Doccument
 https://archive.org/details/stackexchange
 
+https://chartio.com/resources/tutorials/how-to-get-values-from-another-sheet-in-excel-using-vba/
+
 http://www.vbtutor.net/lesson16.html
 
 https://github.com/agherzan/meta-raspberrypi
