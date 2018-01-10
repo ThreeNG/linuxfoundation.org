@@ -3,6 +3,8 @@
 https://a4z.bitbucket.io/docs/BitBake/guide.html
 hello
 
+http://www.manythings.org/audio/jpn/10/
+
 Doccument
 https://archive.org/details/stackexchange
 
