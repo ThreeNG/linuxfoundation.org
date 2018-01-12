@@ -149,6 +149,7 @@ https://www.sdcard.org/developers/overview/speed_class/index.html
 
 https://www.scribd.com/document/356602915/Nh%E1%BA%A1p-Mon-Lap-Trinh-Khong-Code-Toidicodedao
 
+ssh-keygen -f "~/.ssh/known_hosts" -R pi@192.168.1.65
  cat ~/.ssh/id_rsa.pub |ssh pi@192.168.1.65 ‘cat >> ~/.ssh/authorized_keys’
  
  https://www.robots.ox.ac.uk/~dwm/Courses/index.html
