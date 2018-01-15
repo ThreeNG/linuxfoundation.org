@@ -6,7 +6,7 @@ http://www.manythings.org/japanese/reading/con/1.html
 http://www.manythings.org/audio/jpn/10/
 https://github.com/ThreeNG/linuxfoundation.org.git
 http://www.network-theory.co.uk/docs/gccintro/
-
+https://brightside.me/wonder-animals/13-photos-which-prove-that-cats-and-dogs-are-from-different-worlds-183155/?utm_source=fb_brightside&utm_medium=fb_organic&utm_campaign=fb_gr_brightside
 
 https://github.com/0xAX/linux-insides/blob/master/Booting/README.md
 
