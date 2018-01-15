@@ -8,6 +8,8 @@ https://github.com/ThreeNG/linuxfoundation.org.git
 http://www.network-theory.co.uk/docs/gccintro/
 
 
+https://github.com/0xAX/linux-insides/blob/master/Booting/README.md
+
 export https_proxy="http://user_name:Pass_windown_log_in@172.29.137.2:8080"
 
 Doccument
