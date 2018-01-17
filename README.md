@@ -2,6 +2,8 @@
 
 usermod --login newname oldname
 
+http://www.network-theory.co.uk/docs/gccintro/gccintro_59.html
+
 usermod --login newname oldname
 https://serverfault.com/questions/437342/how-can-i-rename-an-unix-user
 
