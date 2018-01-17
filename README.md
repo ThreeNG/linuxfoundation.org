@@ -2,6 +2,9 @@
 
 usermod --login newname oldname
 
+usermod --login newname oldname
+https://serverfault.com/questions/437342/how-can-i-rename-an-unix-user
+
 https://a4z.bitbucket.io/docs/BitBake/guide.html
 hello
 http://www.manythings.org/japanese/reading/con/1.html
