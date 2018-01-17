@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+usermod --login newname oldname
+
 https://a4z.bitbucket.io/docs/BitBake/guide.html
 hello
 http://www.manythings.org/japanese/reading/con/1.html
