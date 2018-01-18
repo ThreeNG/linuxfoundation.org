@@ -6,6 +6,8 @@ http://www.network-theory.co.uk/docs/gccintro/gccintro_59.html
 
 usermod --login newname oldname
 
+https://github.com/ThreeNG/vim-galore/blob/master/README.md#cheatsheets
+
 
 for dirname in $(find $BuildDir_ES3/MDKPackage/Source/Demos -name "Build*" -type d )
 
