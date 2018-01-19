@@ -1,0 +1,5 @@
+#!/bin/bash
+s=$1
+path=${s//\\//}
+cd "`echo $path | sed 's/rvc-nas-06/home/g' | sed 's/rvc-nas-05/shsv/g'`"
+pwd

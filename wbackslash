@@ -1,0 +1,3 @@
+#!/bin/bash
+unixpath=$1
+echo $unixpath | sed 's/\//\\/g' | sed 's/home/\\rvc-nas-06/g' | sed 's/shsv/\\rvc-nas-00/g' | sed 's/00\\DTV/05\\DTV/g' | sed 's/00\\RCarSW/08\\RCarSW/g' | sed 's/00\\SS2/08\\SS2/g'
