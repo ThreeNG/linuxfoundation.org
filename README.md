@@ -3,6 +3,8 @@
 
 http://www.manythings.org/wbg/9101s.html
 
+https://embedjournal.com/how-to-use-gmail-form-terminal-linux/
+
 sudo easy_install twilio
 
 sudo apt-get install python-pip
