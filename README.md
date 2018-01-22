@@ -1,6 +1,8 @@
 #linuxfoundation.org
 
 
+sudo easy_install twilio
+
 sudo apt-get install python-pip
 
 sudo pip install twilio
