@@ -1,5 +1,12 @@
 #linuxfoundation.org
 
+
+sudo apt-get install python-pip
+
+sudo pip install twilio
+
+apt-get install libffi-dev libssl-dev
+
 usermod --login newname oldname
 
 http://www.network-theory.co.uk/docs/gccintro/gccintro_59.html
