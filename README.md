@@ -3,6 +3,8 @@
 
 http://www.manythings.org/wbg/9101s.html
 
+http://bash.im/
+
 https://embedjournal.com/how-to-use-gmail-form-terminal-linux/
 
 sudo easy_install twilio
