@@ -4,6 +4,44 @@
 http://linuxcommand.org/lc3_wss0080.php
 
 
+g is a function
+g ()
+{
+    check_help $1;
+    source $SDIRS;
+    target="$(eval $(echo echo $(echo \$DIR_$1)))";
+    if [ -d "$target" ]; then
+        cd "$target";
+    else
+        if [ ! -n "$target" ]; then
+            echo -e "\033[${RED}WARNING: '${1}' bashmark does not exist\033[00m";
+        else
+            echo -e "\033[${RED}WARNING: '${target}' does not exist\033[00m";
+        fi;
+    fi
+}
+nghianguyen@rvc-ubt-05:~/computer/computer/bashmarks$ echo $SDIRS
+/home/u/nghianguyen/.sdirs
+nghianguyen@rvc-ubt-05:~/computer/computer/bashmarks$ more $SDIRS
+export DIR_teamwork="/shsv/DTV/Prj_QAS/04_Work/01_Prj_Benchmark/03_User"
+export DIR_yoctodir="/shsv/SS2/RSS1/25_nghianguyen/YoctoPrj"
+export DIR_document="/shsv/RCarSW/Documents"
+export DIR_media="/shsv/RCarSW/Multimedia_data"
+export DIR_sdk="/shsv/RCarSW/rvc_git_repo/yocto/_YOCTO_IMAGES_"
+export DIR_testdata="/shsv/RCarSW/Multimedia_data/SystemVerificationMM_App/_ST_TestData"
+export DIR_work="/shsv/DTV/Prj_QAS/04_Work/01_Prj_Benchmark/03_User/25_nghianguyen/18-1Q"
+nghianguyen@rvc-ubt-05:~/computer/computer/bashmarks$
+
+
+
+
+
+
+
+
+
+
+
 http://tldp.org/LDP/abs/html/part1.html
 
 http://www.manythings.org/wbg/9101s.html
