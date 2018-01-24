@@ -5,7 +5,7 @@ http://linuxcommand.org/lc3_wss0080.php
 
 toyosu-ku
 hagisama station
-
+tar tzvf name_of_file.tar.gz | less
 
 
 g is a function
