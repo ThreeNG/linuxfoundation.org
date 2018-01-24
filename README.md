@@ -3,6 +3,10 @@
 
 http://linuxcommand.org/lc3_wss0080.php
 
+toyosu-ku
+hagisama station
+
+
 
 g is a function
 g ()
