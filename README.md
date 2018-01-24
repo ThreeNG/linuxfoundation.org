@@ -1,6 +1,9 @@
 #linuxfoundation.org
 
 
+http://linuxcommand.org/lc3_wss0080.php
+
+
 http://tldp.org/LDP/abs/html/part1.html
 
 http://www.manythings.org/wbg/9101s.html
