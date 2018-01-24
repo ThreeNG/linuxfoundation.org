@@ -1,6 +1,8 @@
 #linuxfoundation.org
 
 
+http://tldp.org/LDP/abs/html/part1.html
+
 http://www.manythings.org/wbg/9101s.html
 
 http://bash.im/
