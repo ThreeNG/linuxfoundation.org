@@ -1,9 +1,12 @@
 #linuxfoundation.org
 
+http://linuxcommand.org/lc3_resources.php
 
 http://linuxcommand.org/lc3_wss0080.php
 
 http://linuxcommand.org/lc3_lts0080.php
+
+
 http://linuxcommand.org/lc3_wss0030.php
 toyosu-ku
 hagisama station
