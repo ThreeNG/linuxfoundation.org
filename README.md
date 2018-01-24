@@ -7,6 +7,7 @@ toyosu-ku
 hagisama station
 tar tzvf name_of_file.tar.gz | less
 
+echo "$(cal)"
 
 g is a function
 g ()
