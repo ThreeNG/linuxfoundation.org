@@ -7,6 +7,43 @@ http://linuxcommand.org/lc3_wss0080.php
 http://linuxcommand.org/lc3_lts0080.php
 
 
+
+    C-a : go to the starting of the current line.
+    C-e : go to the end of the current line.
+
+At thegeekstuff, we love Vim editor. We’ve written lot of articles on Vim editor. If you are new to the Vim editor, refer to our Vim editor navigation fundamentals article.
+2. Emacs Screen Navigation
+
+Following three navigation can be done in relation to text shown in the screen.
+
+    C-v : Jump forward one full screen.
+    M-v : Jump backwards one full screen. ( If you dont have Meta key, use ESC key )
+    C-l : Make the current line as center line of window.
+
+You can also use Page Up, Page Down for screen navigation.
+3. Emacs Special Navigation
+
+Following are couple of special navigation that are used to go to the start or end of buffer.
+
+    M-< : Go to the start of file
+    M-> : Go to the end of file
+
+4. Emacs Word Navigation
+
+Following are two word navigation keys.
+
+    M-f : navigate a word forward.
+    M-b : navigate a word backward.
+
+5. Emacs Paragraph Navigation
+
+    M-a : Go to the beginning of the current paragraph. By pressing M-a again and again move to the previous paragraph beginnings.
+    M-e : Go to the end of the current paragraph. By pressing M-e again and again move to the next paragraph end, and again.
+
+
+
+
+
 http://linuxcommand.org/lc3_wss0030.php
 toyosu-ku
 hagisama station
