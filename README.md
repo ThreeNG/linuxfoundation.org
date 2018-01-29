@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://www.cs.oberlin.edu/~kuperman/help/vim/windows.html
+
 http://linuxcommand.org/lc3_resources.php
 
 http://linuxcommand.org/lc3_wss0080.php
