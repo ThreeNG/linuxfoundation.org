@@ -2,8 +2,10 @@
 
 https://www.cs.oberlin.edu/~kuperman/help/vim/windows.html
 
-
 https://github.com/ThreeNG/vim-galore
+
+http://www.viemu.com/a-why-vi-vim.html
+
 
 https://www.names.org/n/jelyn/about#pronunciation
 
