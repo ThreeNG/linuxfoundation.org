@@ -2,6 +2,8 @@
 
 https://www.cs.oberlin.edu/~kuperman/help/vim/windows.html
 
+http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html
+
 https://github.com/ThreeNG/vim-galore
 
 http://www.viemu.com/a-why-vi-vim.html
