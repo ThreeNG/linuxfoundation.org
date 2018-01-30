@@ -6,6 +6,7 @@ https://github.com/ThreeNG/vim-galore
 
 http://www.viemu.com/a-why-vi-vim.html
 
+http://thomer.com/vi/vi.html
 
 https://www.names.org/n/jelyn/about#pronunciation
 
