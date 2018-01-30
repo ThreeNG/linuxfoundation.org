@@ -3,7 +3,10 @@
 
 http://www.cotse.com/viqr.htm
 
+https://gist.github.com/t-mart/610795fcf7998559ea80
 
+
+Just do :help netrw-quickmap.
 
 https://www.cs.oberlin.edu/~kuperman/help/vim/windows.html
 
