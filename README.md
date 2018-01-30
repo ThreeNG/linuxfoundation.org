@@ -1,5 +1,10 @@
 #linuxfoundation.org
 
+
+http://www.cotse.com/viqr.htm
+
+
+
 https://www.cs.oberlin.edu/~kuperman/help/vim/windows.html
 
 http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html
