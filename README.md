@@ -2,6 +2,9 @@
 
 https://www.cs.oberlin.edu/~kuperman/help/vim/windows.html
 
+
+https://github.com/ThreeNG/vim-galore
+
 https://www.names.org/n/jelyn/about#pronunciation
 
 http://linuxcommand.org/lc3_resources.php
