@@ -6,6 +6,13 @@ http://www.cotse.com/viqr.htm
 https://gist.github.com/t-mart/610795fcf7998559ea80
 
 
+
+All are waiting for you at the Year End Party:
+	On Saturday, Feb. 03, 2018 from 18:00
+	At Conference Center The Adora Premium Wedding - 803 Nguyễn Văn Linh, Tân Phú, Thành phố Hồ Chí Minh, Hồ Chí Minh
+
+
+
 Just do :help netrw-quickmap.
 
 https://www.cs.oberlin.edu/~kuperman/help/vim/windows.html
