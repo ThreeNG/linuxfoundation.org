@@ -5,7 +5,7 @@ http://www.cotse.com/viqr.htm
 
 https://gist.github.com/t-mart/610795fcf7998559ea80
 
-
+https://www.thegeekstuff.com/2011/07/bash-for-loop-examples/?utm_source=feedburner
 
 All are waiting for you at the Year End Party:
 	On Saturday, Feb. 03, 2018 from 18:00
