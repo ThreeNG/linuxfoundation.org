@@ -1,5 +1,6 @@
 #linuxfoundation.org
 
+https://en.wikipedia.org/wiki/List_of_ARM_microarchitectures
 
 http://www.cotse.com/viqr.htm
 
