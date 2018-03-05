@@ -3,6 +3,8 @@
 
 https://lwn.net/Articles/552852/
 
+https://archive.org/details/ProgrammingThrowdown
+
 https://en.wikipedia.org/wiki/List_of_ARM_microarchitectures
 
 http://www.cotse.com/viqr.htm
