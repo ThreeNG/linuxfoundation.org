@@ -1,6 +1,6 @@
 #linuxfoundation.org
 
-
+https://www.cnx-software.com/how-tos-training-materials/embedded-linux-development/
 https://www.renesas.com/en-eu/about/web-magazine/edge/solution/18-hmi-graphical-interfaces.html
 
 https://lwn.net/Articles/552852/
