@@ -5,6 +5,8 @@ https://lwn.net/Articles/552852/
 
 https://archive.org/details/ProgrammingThrowdown
 
+https://git.bootlin.com/training-materials/tree/labs/yocto-first-build?id=b7311908e01c78dc37262ebb87ddb1ca8f397ac3
+
 https://en.wikipedia.org/wiki/List_of_ARM_microarchitectures
 
 http://www.cotse.com/viqr.htm
