@@ -1,6 +1,8 @@
 #linuxfoundation.org
 
 
+https://www.renesas.com/en-eu/about/web-magazine/edge/solution/18-hmi-graphical-interfaces.html
+
 https://lwn.net/Articles/552852/
 
 https://archive.org/details/ProgrammingThrowdown
