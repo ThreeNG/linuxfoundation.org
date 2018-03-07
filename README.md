@@ -1,10 +1,17 @@
 #linuxfoundation.org
 
+http://course.inf.ed.ac.uk/
+
 https://www.cnx-software.com/how-tos-training-materials/embedded-linux-development/
+
 https://www.renesas.com/en-eu/about/web-magazine/edge/solution/18-hmi-graphical-interfaces.html
 
 https://lwn.net/Articles/552852/
+
 https://www.inf.ed.ac.uk/teaching/courses/es/
+
+http://course.inf.ed.ac.uk/
+
 https://archive.org/details/ProgrammingThrowdown
 
 https://git.bootlin.com/training-materials/tree/labs/yocto-first-build?id=b7311908e01c78dc37262ebb87ddb1ca8f397ac3
