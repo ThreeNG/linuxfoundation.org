@@ -1,5 +1,8 @@
 #linuxfoundation.org
 
+
+furikae kyūjitsu 振替休日
+
 http://www.linuxtopia.org/online_books/linux_kernel/kernel_configuration/ch05s04.html
 
 http://www.linuxtopia.org
