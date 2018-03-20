@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+http://www.linuxtopia.org
+
 http://course.inf.ed.ac.uk/
 
 https://www.cnx-software.com/how-tos-training-materials/embedded-linux-development/
