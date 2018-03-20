@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+http://www.linuxtopia.org/online_books/linux_kernel/kernel_configuration/ch05s04.html
+
 http://www.linuxtopia.org
 
 http://course.inf.ed.ac.uk/
