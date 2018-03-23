@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://www.learnenough.com/command-line-tutorial
+
 https://en.wikipedia.org/wiki/Seven_Lucky_Gods
 
 furikae kyūjitsu 振替休日
