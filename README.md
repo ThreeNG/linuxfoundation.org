@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://github.com/ThreeNG/hacker-scripts
+
 https://www.learnenough.com/command-line-tutorial
 
 https://en.wikipedia.org/wiki/Seven_Lucky_Gods
