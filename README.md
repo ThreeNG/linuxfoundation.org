@@ -11,6 +11,7 @@ how to organize the summary in the table and how to give the judgement about res
 
  compute-intensive workload
  System-level software development
+ benchmark testsuites
  
 https://github.com/ThreeNG/hacker-scripts
 
