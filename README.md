@@ -1,5 +1,12 @@
 #linuxfoundation.org
 
+We become more understanding about our platform via acquiring the performance indices on each SoC
+and start making estimation (prediction) for new SoC.
+It meant that we become more controlling on the platform performance in order to consider advanced (early) improvement or feedback to all other teams.
+
+Let's keep up the good trends and give more contribution to R-Car Gen3 Platform!
+
+
 https://github.com/ThreeNG/hacker-scripts
 
 https://www.learnenough.com/command-line-tutorial
