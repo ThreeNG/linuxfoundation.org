@@ -6,7 +6,11 @@ It meant that we become more controlling on the platform performance in order to
 
 Let's keep up the good trends and give more contribution to R-Car Gen3 Platform!
 
-
+learn how the test environment is described,
+how to organize the summary in the table (it looks very similar to our benchmark result's table)[1] and how to give the judgement about result
+ compute-intensive workload
+ 
+ 
 https://github.com/ThreeNG/hacker-scripts
 
 https://www.learnenough.com/command-line-tutorial
