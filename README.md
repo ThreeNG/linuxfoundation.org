@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+www.3dcenter.org/news/reihenweise-pascal-und-volta-codenamen-aufgetaucht-gp100-gp102-gp104-gp106-gp107-gp10b-gv100 http://rnext.it/review/nvidia-jetson-tx2/
+
 https://developer.nvidia.com/embedded/linux-tegra-r281
 
 https://developer.nvidia.com/embedded/linux-tegra-271
