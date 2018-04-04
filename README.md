@@ -4,6 +4,10 @@ https://developer.nvidia.com/embedded/linux-tegra-r281
 
 https://developer.nvidia.com/embedded/linux-tegra-271
 
+https://www.phoronix.com/scan.php?page=news_item&px=Tegra-X2-Nouveau-Support 
+
+https://www.phoronix.com/scan.php?page=article&item=jetson-tegra-x2&num=1
+
 https://developer.nvidia.com/embedded/linux-tegra
 
 We become more understanding about our platform via acquiring the performance indices on each SoC
