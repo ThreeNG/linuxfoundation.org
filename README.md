@@ -1,6 +1,9 @@
 #linuxfoundation.org
 
 https://developer.nvidia.com/embedded/linux-tegra-r281
+
+https://developer.nvidia.com/embedded/linux-tegra-271
+
 https://developer.nvidia.com/embedded/linux-tegra
 
 We become more understanding about our platform via acquiring the performance indices on each SoC
