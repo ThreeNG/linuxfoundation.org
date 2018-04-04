@@ -1,5 +1,8 @@
 #linuxfoundation.org
 
+https://developer.nvidia.com/embedded/linux-tegra-r281
+https://developer.nvidia.com/embedded/linux-tegra
+
 We become more understanding about our platform via acquiring the performance indices on each SoC
 and start making estimation (prediction) for new SoC.
 It meant that we become more controlling on the platform performance in order to consider advanced (early) improvement or feedback to all other teams.
