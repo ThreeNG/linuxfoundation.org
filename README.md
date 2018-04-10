@@ -15,7 +15,7 @@ https://developer.nvidia.com/embedded/linux-tegra
 We become more understanding about our platform via acquiring the performance indices on each SoC
 and start making estimation (prediction) for new SoC.
 It meant that we become more controlling on the platform performance in order to consider advanced (early) improvement or feedback to all other teams.
-
+https://plumbr.io/blog/memory-leaks/out-of-memory-kill-process-or-sacrifice-child
 Let's keep up the good trends and give more contribution to R-Car Gen3 Platform!
 
 learn how the test environment is described,
