@@ -1,5 +1,12 @@
 #linuxfoundation.org
 
+ annihilate verb [ T ]
+uk ​ /əˈnaɪ.ə.leɪt/ us ​ /əˈnaɪ.ə.leɪt/
+​	
+
+to destroy something completely so that nothing is left:
+a city annihilated by an atomic bomb
+
 www.3dcenter.org/news/reihenweise-pascal-und-volta-codenamen-aufgetaucht-gp100-gp102-gp104-gp106-gp107-gp10b-gv100 http://rnext.it/review/nvidia-jetson-tx2/
 
 https://developer.nvidia.com/embedded/linux-tegra-r281
