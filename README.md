@@ -9,6 +9,20 @@ a city annihilated by an atomic bomb
 
 www.3dcenter.org/news/reihenweise-pascal-und-volta-codenamen-aufgetaucht-gp100-gp102-gp104-gp106-gp107-gp10b-gv100 http://rnext.it/review/nvidia-jetson-tx2/
 
+|上期<br>(かみき)|Kami ki|Th
+|下期<br>(しもき)|Shimo ki|T
+|改善<br>(かいぜん)|Kai zen|C
+|確認<br>(かくにん)|Kaku nin|
+|調査<br>(ちょうさ)|Cho-sa|Inv
+|対策<br>(たいさく)|Tai saku|C
+|しょうがない<br>|Sho-ga nai|I
+
+* Knowledge 
+ Ubuntu([ʊˈbʊntuː]; oo-BOO
+ Ubuntu(うぶんつ、うーぶんとぅ)は南
+
+
+
 https://developer.nvidia.com/embedded/linux-tegra-r281
 
 https://developer.nvidia.com/embedded/linux-tegra-271
