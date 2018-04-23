@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+以上、よろしくお願いします。
+
  annihilate verb [ T ]
 uk ​ /əˈnaɪ.ə.leɪt/ us ​ /əˈnaɪ.ə.leɪt/
 ​	
