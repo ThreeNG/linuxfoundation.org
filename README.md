@@ -1,7 +1,11 @@
 #linuxfoundation.org
 
 addicted to vim 
+
 https://git.kernel.org/pub/scm/linux/kernel/git/geert/renesas-drivers.git
+
+https://git.kernel.org/?s=idle
+
 Before a command is executed, its input and output may be redirected using a special notation interpreted
 by  the  shell.   Redirection  may  also  be used to open and close files for the current shell execution
 environment.  The following redirection operators may precede or appear anywhere within a simple  command
