@@ -2,6 +2,8 @@
 
 addicted to vim 
 
+https://bitbucket.org/threeng/
+
 https://git.kernel.org/pub/scm/linux/kernel/git/geert/renesas-drivers.git
 
 https://git.kernel.org/?s=idle
