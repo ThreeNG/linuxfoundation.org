@@ -1,6 +1,11 @@
 #linuxfoundation.org
 
-addicted to vim 
+addicted to vim  
+
+https://elinux.org/Automated_Testing_Summit
+
+https://linuxfoundation.smapply.io/prog/embedded_linux_conference_europe_2018/
+
 
 https://bitbucket.org/threeng/
 
