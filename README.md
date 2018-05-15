@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+for i in $(ls .);do md5sum $i;done
+
 https://kodi.wiki/view/Raspberry_Pi
 
 sudo dd if=OSMC_TGT_rbp2_20160403.img of=/dev/sdc conv=fdatasync
