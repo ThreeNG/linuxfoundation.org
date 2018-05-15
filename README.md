@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+sudo dd bs=1m if=2014-09-09-wheezy-raspbian.img of=/dev/disk4
+
 addicted to vim  
 
 https://lists.yoctoproject.org/listinfo/automated-testing
