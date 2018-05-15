@@ -2,6 +2,8 @@
 
 https://kodi.wiki/view/Raspberry_Pi
 
+sudo dd if=OSMC_TGT_rbp2_20160403.img of=/dev/sdc conv=fdatasync
+
 sudo dd bs=1m if=2014-09-09-wheezy-raspbian.img of=/dev/disk4
 
 addicted to vim  
