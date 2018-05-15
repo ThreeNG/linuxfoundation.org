@@ -4,6 +4,8 @@ for i in $(ls .);do md5sum $i;done
 
 https://kodi.wiki/view/Raspberry_Pi
 
+sudo dd if=/dev/zero of=/dev/sdc bs=512 count=20 conv=fdatasync
+
 sudo dd if=OSMC_TGT_rbp2_20160403.img of=/dev/sdc conv=fdatasync
 
 sudo dd bs=1m if=2014-09-09-wheezy-raspbian.img of=/dev/disk4
