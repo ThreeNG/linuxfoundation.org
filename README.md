@@ -2,6 +2,8 @@
 
 https://scribles.net/enabling-hands-free-profile-on-raspberry-pi-raspbian-stretch-by-using-pulseaudio/
 
+カラオケ
+
 http://www.modmypi.com/blog/raspberry-pis-remotes-ir-receivers
 
 for i in $(ls .);do md5sum $i;done
