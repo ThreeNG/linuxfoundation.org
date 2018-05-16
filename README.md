@@ -6,6 +6,8 @@ https://scribles.net/enabling-hands-free-profile-on-raspberry-pi-raspbian-stretc
 
 カラオケ
 
+https://tutorials-raspberrypi.com/let-raspberry-pis-communicate-with-each-other-per-433mhz-wireless-signals/
+
 https://tutorials-raspberrypi.com/control-raspberry-pi-wireless-sockets-433mhz-tutorial/
 
 http://www.modmypi.com/blog/raspberry-pis-remotes-ir-receivers
