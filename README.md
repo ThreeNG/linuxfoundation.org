@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://www.howstuffworks.com/
+
 https://scribles.net/enabling-hands-free-profile-on-raspberry-pi-raspbian-stretch-by-using-pulseaudio/
 
 カラオケ
