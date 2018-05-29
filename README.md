@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://archive.org/details/NamKyPhongTucNhonVatDienCa2
+
 https://www.howstuffworks.com/
 
 https://scribles.net/enabling-hands-free-profile-on-raspberry-pi-raspbian-stretch-by-using-pulseaudio/
