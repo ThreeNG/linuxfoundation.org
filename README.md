@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://falstaff.agner.ch/2016/07/03/u-bootlinux-and-hyp-mode-on-armv7/
+
 https://archive.org/details/NamKyPhongTucNhonVatDienCa2
 
 https://www.howstuffworks.com/
