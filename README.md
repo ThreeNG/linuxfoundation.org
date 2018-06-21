@@ -1,5 +1,12 @@
 #linuxfoundation.org
 
+poky (meta-yocto-bsp)
+meta-linago (meta-optee, meta-linaro-toolchain)
+meta-openembedded (meta-oe, meta-filesystems)
+meta-multimedia
+meta-networking
+meta-python
+
 https://falstaff.agner.ch/2016/07/03/u-bootlinux-and-hyp-mode-on-armv7/
 
 https://archive.org/details/NamKyPhongTucNhonVatDienCa2
