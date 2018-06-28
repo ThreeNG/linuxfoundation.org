@@ -4,7 +4,7 @@
 http://vietnamcoracle.com/23-differences-from-south-to-north-vietnam/?utm_campaign=shareaholic&utm_medium=facebook&utm_source=socialnetwork
 
 Boochart: collect process information, CPU statistics and disk usage statistics 
-
+性能評価結果
 poky (meta-yocto-bsp)
 
 meta-linago (meta-optee, meta-linaro-toolchain)
