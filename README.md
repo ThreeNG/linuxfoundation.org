@@ -2,6 +2,8 @@
 
 547/19 hoang sa
 
+http://www.cs.cornell.edu/courses/cs3410/2013sp/
+
 https://github.com/ThreeNG/free-science-books/blob/master/free-science-books.md
 
 
