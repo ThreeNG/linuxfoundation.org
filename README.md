@@ -1,5 +1,8 @@
 #linuxfoundation.org
 
+https://www.lynda.com/IT-Infrastructure-tutorials/Comparing-adware-spyware-ransomware/645057/735412-4.html
+
+
 547/19 hoang sa
 
 http://nv-tegra.nvidia.com/gitweb/?p=linux-4.4.git
