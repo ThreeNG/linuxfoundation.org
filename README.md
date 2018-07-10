@@ -2,6 +2,10 @@
 
 https://www.lynda.com/IT-Infrastructure-tutorials/Comparing-adware-spyware-ransomware/645057/735412-4.html
 
+http://sachvui.com/sachvui-686868666888/ebooks/2017/pdf/Sachvui.Com-nghe-thuat-tinh-te-cua-viec-dech-quan-tam-mark-manson.pdf
+
+https://toidicodedao.files.wordpress.com/2017/01/toi-di-code-dao-ebook-demo.pdf
+
 https://betterhumans.coach.me/how-to-do-work-at-your-computer-faster-2eace4213413
 
 https://toidicodedao.com/2018/07/10/hoc-best-practice-programming/
