@@ -2,6 +2,8 @@
 
 https://www.lynda.com/IT-Infrastructure-tutorials/Comparing-adware-spyware-ransomware/645057/735412-4.html
 
+https://betterhumans.coach.me/how-to-do-work-at-your-computer-faster-2eace4213413
+
 https://toidicodedao.com/2018/07/10/hoc-best-practice-programming/
 
 547/19 hoang sa
