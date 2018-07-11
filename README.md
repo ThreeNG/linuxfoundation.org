@@ -4,6 +4,8 @@ https://www.lynda.com/IT-Infrastructure-tutorials/Comparing-adware-spyware-ranso
 
 https://vinacode.net/
 
+http://ascii-table.com/pronunciation-guide.php
+
 http://sachvui.com/sachvui-686868666888/ebooks/2017/pdf/Sachvui.Com-nghe-thuat-tinh-te-cua-viec-dech-quan-tam-mark-manson.pdf
 
 https://toidicodedao.files.wordpress.com/2017/01/toi-di-code-dao-ebook-demo.pdf
