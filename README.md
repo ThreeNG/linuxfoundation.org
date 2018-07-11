@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://www.renesas.com/en-us/promotions/solutions/event/devcon2017/sp-15.html
+
 http://www.4-traders.com/business-leaders/biography/
 
 http://www.4-traders.com/RENESAS-ELECTRONICS-CORPO-6496219/
