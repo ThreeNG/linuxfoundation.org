@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+http://www.babynamewizard.com/
+
 http://www.adac.co.jp/eng/company/map.html
 
 The Automotive Business division offers 'in-vehicle control' semiconductors that control engines and car bodies and 'car information' semiconductors for in-vehicle information such as navigation systems.
