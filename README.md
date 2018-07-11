@@ -6,6 +6,7 @@ http://www.adac.co.jp/eng/company/map.html
 
 The Automotive Business division offers 'in-vehicle control' semiconductors that control engines and car bodies and 'car information' semiconductors for in-vehicle information such as navigation systems.
 
+https://www.renesas.com/en-eu/about/press-center/news/2017/news20170512c.html
 
 https://www.renesas.com/en-us/promotions/solutions/event/devcon2017/sp-15.html
 
