@@ -2,6 +2,8 @@
 
 http://www.4-traders.com/business-leaders/biography/
 
+http://www.4-traders.com/RENESAS-ELECTRONICS-CORPO-6496219/
+
 https://www.renesas.com/en-hq/about/ir/other/news.html
 
 https://www.renesas.com/en-hq/about/company/whats-semiconductors/manga.html
