@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://www.renesas.com/en-hq/about/company/whats-semiconductors/manga.html
+
 https://www.lynda.com/IT-Infrastructure-tutorials/Comparing-adware-spyware-ransomware/645057/735412-4.html
 
 https://vinacode.net/
