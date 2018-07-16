@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://developer.nvidia.com/embedded/downloads#?tx=$software,l4t-tx2
+
 http://www.babynamewizard.com/
 
 http://www.adac.co.jp/eng/company/map.html
