@@ -4,6 +4,32 @@ https://developer.nvidia.com/embedded/downloads#?tx=$software,l4t-tx2
 
 http://www.babynamewizard.com/
 
+Một hôm bước qua thành phố lạ
+Thành phố đã đi ngủ trưa
+Đời ta có khi tựa lá cỏ
+Ngồi hát ca rất tự do
+Nhiều khi bỗng như trẻ nhớ nhà
+Từ những phố xưa tôi về
+Ngày xuân bước chân người rất nhẹ
+Mùa xuân đã qua bao giờ
+Nhiều đêm thấy ta là thác đổ
+Tỉnh ra có khi còn nghe
+
+Một hôm bước chân về giữa chợ
+Chợt thấy vui như trẻ thơ
+Đời ta có khi là đóm lửa
+Một hôm nhóm trong vườn khuya
+Vườn khuya đóa hoa nào mới nở
+Đời tôi có ai vừa qua
+Nhiều khi thấy trăm nghìn nấm mộ
+Tôi nghĩ quanh đây hồ như
+Đời ta hết mang điều mới lạ
+Tôi đã sống rất ơ hờ
+Lòng tôi có đôi lần khép cửa
+Rồi bên vết thương tôi quì
+Vì em đã mang lời khấn nhỏ
+Bỏ tôi đứng bên đời kia 
+
 http://www.adac.co.jp/eng/company/map.html
 
 The Automotive Business division offers 'in-vehicle control' semiconductors that control engines and car bodies and 'car information' semiconductors for in-vehicle information such as navigation systems.
