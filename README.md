@@ -2,6 +2,8 @@
 
 https://developer.nvidia.com/embedded/downloads#?tx=$software,l4t-tx2
 
+https://saigoneer.com/listings/category-items/1-listings/58-moving
+
 http://www.babynamewizard.com/
 
 Một hôm bước qua thành phố lạ
