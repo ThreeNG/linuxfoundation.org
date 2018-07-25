@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://news.ycombinator.com/news
+
 https://developer.nvidia.com/embedded/downloads#?tx=$software,l4t-tx2
 
 https://saigoneer.com/listings/category-items/1-listings/58-moving
