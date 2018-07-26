@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://elinux.org/images/e/e0/Introduction-to-Fuego-ELC-2016.pdf
+
 http://fuegotest.org/wiki/test_execution_flow_outline
 
 https://news.ycombinator.com/news
