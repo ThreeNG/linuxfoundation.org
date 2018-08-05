@@ -1,5 +1,10 @@
 #linuxfoundation.org
 
+
+Wifi_BanDoc_PhongDoc
+s.hub@2017
+
+
 a foster care/home/child/mother
 
 https://elinux.org/images/e/e0/Introduction-to-Fuego-ELC-2016.pdf
