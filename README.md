@@ -2,6 +2,8 @@
 6647364
 vj315 23:55 12/09
 
+https://www.kernel.org/doc/gorman/html/understand/understand005.html
+
 https://www.rose-hulman.edu/class/csse/csse332/200930/Slides/FileManagement-02.pdf
 
 http://events17.linuxfoundation.org/sites/events/files/slides/dt_internals.pdf
