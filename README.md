@@ -2,6 +2,16 @@
 6647364
 vj315 23:55 12/09
 
+https://www.rose-hulman.edu/class/csse/csse332/200930/Slides/FileManagement-02.pdf
+
+http://events17.linuxfoundation.org/sites/events/files/slides/dt_internals.pdf
+
+https://cgi.cse.unsw.edu.au/~cs3231/08s1/lectures/lect11x6.pdf
+
+https://www.kernel.org/doc/gorman/pdf/understand.pdf
+
+http://www.enseignement.polytechnique.fr/informatique/INF583/INF583_5.pdf
+
 Wifi_BanDoc_PhongDoc
 s.hub@2017
 
