@@ -8,6 +8,8 @@ https://elixir.bootlin.com/linux/latest/source
 
 http://www.informit.com/store/linux-kernel-development-9780672329463?w_ptgrevartcl=Getting+Started+with+the+Linux+Kernel_1610334
 
+https://doc.lagout.org/operating%20system%20/linux/Linux%20Kernel%20Development%2C%203rd%20Edition.pdf
+
 https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/refs/tags
 
 https://www.collabora.com/news-and-blog/news-and-events/linux-kernel-4.18.html
