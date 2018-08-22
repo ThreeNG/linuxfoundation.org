@@ -2,6 +2,8 @@
 6647364
 vj315 23:55 12/09
 
+https://www.collabora.com/about-us/blog/2015/02/12/weston-repaint-scheduling/
+
 https://www.collabora.com/news-and-blog/blog/2016/04/15/yocto-and-openembedded-at-collabora/
 
 
