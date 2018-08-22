@@ -4,6 +4,9 @@ vj316 22:00 08/09
 66473640
 vj315 23:55 12/09
 
+
+http://www.manythings.org/songs/ck-daisy.html
+
 https://elixir.bootlin.com/linux/latest/source
 
 http://www.informit.com/store/linux-kernel-development-9780672329463?w_ptgrevartcl=Getting+Started+with+the+Linux+Kernel_1610334
