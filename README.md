@@ -2,6 +2,8 @@
 6647364
 vj315 23:55 12/09
 
+https://www.collabora.com/news-and-blog/blog/2017/10/06/performance-analysis-in-linux-(continued)/
+
 https://www.collabora.com/news-and-blog/blog/2018/06/11/gstreamer-ci-support-for-embedded-devices/
 
 https://www.kernel.org/doc/gorman/html/understand/understand008.html
