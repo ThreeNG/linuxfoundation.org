@@ -2,6 +2,9 @@
 6647364
 vj315 23:55 12/09
 
+https://www.collabora.com/news-and-blog/blog/2016/04/15/yocto-and-openembedded-at-collabora/
+
+
 https://community.arm.com/iot/wearables/f/discussions/2624/how-to-succeed-in-wearable-tech-lessons-from-gopro-and-pebble
 
 https://www.collabora.com/news-and-blog/blog/2017/10/06/performance-analysis-in-linux-(continued)/
