@@ -4,6 +4,8 @@ vj316 22:00 08/09
 66473640
 vj315 23:55 12/09
 
+https://www.collabora.com/news-and-blog/news-and-events/linux-kernel-4.18.html
+
 https://people.collabora.com/~vince/linux-kernel-what-who-how.pdf
 
 https://www.collabora.com/about-us/blog/2015/02/03/debian-jessie-on-raspberry-pi-2/
