@@ -2,6 +2,8 @@
 6647364
 vj315 23:55 12/09
 
+https://people.collabora.com/~vince/linux-kernel-what-who-how.pdf
+
 https://www.collabora.com/about-us/blog/2015/02/03/debian-jessie-on-raspberry-pi-2/
 
 https://www.collabora.com/about-us/blog/2015/02/12/weston-repaint-scheduling/
