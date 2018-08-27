@@ -4,6 +4,7 @@ vj316 22:00 08/09
 66473640
 vj315 23:55 12/09
 
+レジューム デバイス
 
 http://www.manythings.org/songs/ck-daisy.html
 
