@@ -6,6 +6,7 @@ vj315 23:55 12/09
 
 レジューム デバイス
 ka-nerukonfigu
+[Runesasuerekutoronikusu] Ltd.
 
 http://www.manythings.org/songs/ck-daisy.html
 
