@@ -6,6 +6,9 @@ vj315 23:55 12/09
 
 レジューム デバイス
 
+ http://www.qnx.com/download/group.html?programid=29184
+
+ http://www.qnx.com/developers/docs/7.0.0/
 http://fuegotest.org/wiki/Coding_style
 
 ka-nerukonfigu
