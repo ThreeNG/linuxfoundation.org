@@ -1,0 +1,145 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'install', 'gtop', '-g' ]
+2 info using npm@1.4.21
+3 info using node@v0.10.29
+4 verbose cache add [ 'gtop', null ]
+5 verbose cache add name=undefined spec="gtop" args=["gtop",null]
+6 verbose parsed url { protocol: null,
+6 verbose parsed url   slashes: null,
+6 verbose parsed url   auth: null,
+6 verbose parsed url   host: null,
+6 verbose parsed url   port: null,
+6 verbose parsed url   hostname: null,
+6 verbose parsed url   hash: null,
+6 verbose parsed url   search: null,
+6 verbose parsed url   query: null,
+6 verbose parsed url   pathname: 'gtop',
+6 verbose parsed url   path: 'gtop',
+6 verbose parsed url   href: 'gtop' }
+7 silly lockFile 49367507-gtop gtop
+8 verbose lock gtop /home/pi/.npm/49367507-gtop.lock
+9 silly lockFile 49367507-gtop gtop
+10 silly lockFile 49367507-gtop gtop
+11 verbose addNamed [ 'gtop', '' ]
+12 verbose addNamed [ null, '*' ]
+13 silly lockFile 784e59c1-gtop gtop@
+14 verbose lock gtop@ /home/pi/.npm/784e59c1-gtop.lock
+15 silly addNameRange { name: 'gtop', range: '*', hasData: false }
+16 verbose request where is /gtop
+17 verbose request registry https://registry.npmjs.org/
+18 verbose request id 1fc029f3320804fe
+19 verbose url raw /gtop
+20 verbose url resolving [ 'https://registry.npmjs.org/', './gtop' ]
+21 verbose url resolved https://registry.npmjs.org/gtop
+22 verbose request where is https://registry.npmjs.org/gtop
+23 info trying registry request attempt 1 at 19:10:04
+24 verbose etag W/"5996a51e-27b9"
+25 http GET https://registry.npmjs.org/gtop
+26 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND
+27 info trying registry request attempt 2 at 19:10:14
+28 verbose etag W/"5996a51e-27b9"
+29 http GET https://registry.npmjs.org/gtop
+30 http 200 https://registry.npmjs.org/gtop
+31 silly registry.get cb [ 200,
+31 silly registry.get   { server: 'nginx/1.10.1',
+31 silly registry.get     'content-type': 'application/json',
+31 silly registry.get     'last-modified': 'Mon, 20 Nov 2017 11:33:08 GMT',
+31 silly registry.get     etag: 'W/"5a12bd74-27ec"',
+31 silly registry.get     'content-encoding': 'gzip',
+31 silly registry.get     'cache-control': 'max-age=300',
+31 silly registry.get     'content-length': '2322',
+31 silly registry.get     'accept-ranges': 'bytes',
+31 silly registry.get     date: 'Wed, 22 Nov 2017 12:10:16 GMT',
+31 silly registry.get     via: '1.1 varnish',
+31 silly registry.get     age: '0',
+31 silly registry.get     connection: 'keep-alive',
+31 silly registry.get     'x-served-by': 'cache-hkg17925-HKG',
+31 silly registry.get     'x-cache': 'MISS',
+31 silly registry.get     'x-cache-hits': '0',
+31 silly registry.get     'x-timer': 'S1511352616.907708,VS0,VE741',
+31 silly registry.get     vary: 'Accept-Encoding, Accept' } ]
+32 silly addNameRange number 2 { name: 'gtop', range: '*', hasData: true }
+33 silly addNameRange versions [ 'gtop',
+33 silly addNameRange   [ '0.0.1', '0.1.0', '0.1.1', '0.1.2', '0.1.3', '0.1.4', '0.1.5' ] ]
+34 verbose addNamed [ 'gtop', '0.1.5' ]
+35 verbose addNamed [ '0.1.5', '0.1.5' ]
+36 silly lockFile 79250e26-gtop-0-1-5 gtop@0.1.5
+37 verbose lock gtop@0.1.5 /home/pi/.npm/79250e26-gtop-0-1-5.lock
+38 silly lockFile 79250e26-gtop-0-1-5 gtop@0.1.5
+39 silly lockFile 79250e26-gtop-0-1-5 gtop@0.1.5
+40 silly lockFile 784e59c1-gtop gtop@
+41 silly lockFile 784e59c1-gtop gtop@
+42 silly resolved [ { name: 'gtop',
+42 silly resolved     version: '0.1.5',
+42 silly resolved     description: 'graphic top',
+42 silly resolved     main: './index.js',
+42 silly resolved     bin: { gtop: './bin/gtop' },
+42 silly resolved     scripts:
+42 silly resolved      { test: 'echo "Error: no test specified" && exit 1',
+42 silly resolved        start: './bin/gtop' },
+42 silly resolved     repository:
+42 silly resolved      { type: 'git',
+42 silly resolved        url: 'git+https://github.com/aksakalli/gtop.git' },
+42 silly resolved     keywords:
+42 silly resolved      [ 'system',
+42 silly resolved        'monitoring',
+42 silly resolved        'top',
+42 silly resolved        'chart',
+42 silly resolved        'monitor',
+42 silly resolved        'dashboard',
+42 silly resolved        'os' ],
+42 silly resolved     author: { name: 'aksakalli' },
+42 silly resolved     license: 'MIT',
+42 silly resolved     bugs: { url: 'https://github.com/aksakalli/gtop/issues' },
+42 silly resolved     homepage: 'https://github.com/aksakalli/gtop#readme',
+42 silly resolved     dependencies:
+42 silly resolved      { blessed: '^0.1.81',
+42 silly resolved        'blessed-contrib': '^4.7.5',
+42 silly resolved        systeminformation: '^3.25.1' },
+42 silly resolved     engines: { node: '>=4.0.0' },
+42 silly resolved     gitHead: 'a56a8267c39f1df3d55fbf03bb1a68ea459e9617',
+42 silly resolved     _id: 'gtop@0.1.5',
+42 silly resolved     _npmVersion: '5.3.0',
+42 silly resolved     _nodeVersion: '7.10.1',
+42 silly resolved     _npmUser: { name: 'aksakalli', email: 'cgaksakalli@gmail.com' },
+42 silly resolved     dist:
+42 silly resolved      { integrity: 'sha512-km7O7W9Hnvv29RMUKOBfZW3QRyXPTVYTd85uR0t+DjhGAeg+/OiGDjOS4HF7XM+TkRrMYSAvylpIU47f5GM4/A==',
+42 silly resolved        shasum: '81049119848acc83e9b94927aead84ac69081bac',
+42 silly resolved        tarball: 'https://registry.npmjs.org/gtop/-/gtop-0.1.5.tgz' },
+42 silly resolved     maintainers: [ [Object] ],
+42 silly resolved     _npmOperationalInternal:
+42 silly resolved      { host: 's3://npm-registry-packages',
+42 silly resolved        tmp: 'tmp/gtop-0.1.5.tgz_1502677245273_0.6833590208552778' },
+42 silly resolved     directories: {},
+42 silly resolved     _shasum: '81049119848acc83e9b94927aead84ac69081bac',
+42 silly resolved     _from: 'gtop@',
+42 silly resolved     _resolved: 'https://registry.npmjs.org/gtop/-/gtop-0.1.5.tgz',
+42 silly resolved     readme: 'ERROR: No README data found!' } ]
+43 info install gtop@0.1.5 into /usr/local/lib
+44 info installOne gtop@0.1.5
+45 warn engine gtop@0.1.5: wanted: {"node":">=4.0.0"} (current: {"node":"0.10.29","npm":"1.4.21"})
+46 verbose lib/node_modules/gtop unbuild
+47 info preuninstall gtop@0.1.5
+48 info uninstall gtop@0.1.5
+49 verbose true,/usr/local/lib/node_modules,/usr/local/lib/node_modules unbuild gtop@0.1.5
+50 verbose /usr/local/bin,[object Object] binRoot
+51 verbose lib/node_modules/gtop unbuild
+52 info preuninstall gtop@0.1.5
+53 info uninstall gtop@0.1.5
+54 verbose true,/usr/local/lib/node_modules,/usr/local/lib/node_modules unbuild gtop@0.1.5
+55 verbose /usr/local/bin,[object Object] binRoot
+56 error error rolling back Error: EACCES, unlink '/usr/local/bin/gtop'
+56 error error rolling back  gtop@0.1.5 { [Error: EACCES, unlink '/usr/local/bin/gtop'] errno: 3, code: 'EACCES', path: '/usr/local/bin/gtop' }
+57 error Error: EACCES, unlink '/usr/local/bin/gtop'
+57 error  { [Error: EACCES, unlink '/usr/local/bin/gtop'] errno: 3, code: 'EACCES', path: '/usr/local/bin/gtop' }
+58 error Please try running this command again as root/Administrator.
+59 error System Linux 4.9.56-v7+
+60 error command "/usr/bin/nodejs" "/usr/bin/npm" "install" "gtop" "-g"
+61 error cwd /home/pi/linuxfoundation.org
+62 error node -v v0.10.29
+63 error npm -v 1.4.21
+64 error path /usr/local/bin/gtop
+65 error code EACCES
+66 error errno 3
+67 error stack Error: EACCES, unlink '/usr/local/bin/gtop'
+68 verbose exit [ 3, true ]
