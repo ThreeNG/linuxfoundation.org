@@ -8,6 +8,9 @@ vj315 23:55 12/09
 an vat chi map
 https://github.com/ThreeNG/E-Books/
 
+https://ossna18.sched.com/event/FAN7/applying-video-test-automation-to-automate-multimedia-verification-with-embedded-linux-nguyen-nguyen-khiem-nguyen-renesas-design-vietnam?iframe=no&w=100%&sidebar=yes&bg=no
+
+https://ossna18.sched.com/event/FAMz/a-flexible-test-automation-system-for-various-embedded-linux-usecases-khiem-nguyen-renesas-design-vietnam?iframe=no&w=100%&sidebar=yes&bg=no
 
 レジューム デバイス
 
