@@ -12,6 +12,8 @@ https://ossna18.sched.com/event/FAN7/applying-video-test-automation-to-automate-
 
 https://ossna18.sched.com/event/FAMz/a-flexible-test-automation-system-for-various-embedded-linux-usecases-khiem-nguyen-renesas-design-vietnam?iframe=no&w=100%&sidebar=yes&bg=no
 
+https://ossna18.sched.com/event/FAOK/iommu-evaluation-in-automotive-use-cases-khiem-nguyen-renesas-design-vietnam
+
 レジューム デバイス
 
  http://www.qnx.com/download/group.html?programid=29184
