@@ -4,6 +4,8 @@ vj316 22:00 08/09
 66473640
 vj315 23:55 12/09
 
+https://www.flickr.com/photos/nguyenloc_sg/3749007540
+
 http://www.electropepper.org/blog/item/raspberry-pi-2-kodi-remote-control-with-lirc
 
 an vat chi map
