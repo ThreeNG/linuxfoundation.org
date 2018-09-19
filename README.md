@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+http://bird.org/scout/Front_Page
+
 http://bird.org/cgi-bin/words.cgi
 
 http://bird.org/tbwiki/FrontPage
