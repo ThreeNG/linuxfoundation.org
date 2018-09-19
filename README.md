@@ -4,6 +4,10 @@ http://vietnam.renesas.com/2018/09/12/2534/
 
 http://fuegotest.org/wiki/Coding_style
 
+http://fuegotest.org/wiki/Architecture
+
+http://fuegotest.org/wiki/Fuego_Documentation
+
 http://fuegotest.org/wiki/
 
 http://www.tme.vn/
