@@ -2,6 +2,13 @@
 
 https://elinux.org/Fuego
 
+fuegotest.org/wiki/FrontPage   
+
+https://bitbucket.org/tbird20d/fuego/ 
+
+https://bitbucket.org/tbird20d/fuego-core/ 
+
+
 http://vietnam.renesas.com/2018/09/12/2534/
 
 http://fuegotest.org/wiki/Coding_style
