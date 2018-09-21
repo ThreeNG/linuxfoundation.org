@@ -1,5 +1,21 @@
 #linuxfoundation.org
 
+•	Ngày thi: September 30, 2018
+•	Buổi thi: PM
+Vui lòng kiểm tra kỹ thông tin đăng kí bên trên, nếu có sai sót gì vui lòng báo lại gấp.
+Địa điểm thi: tại Vp. IIG Việt Nam – Chi nhánh HCM, Lầu 8, số 538 CMT8, F11, Q3
+Thời gian thi: Vui lòng có mặt 30 phút trước giờ thi để làm thủ tục
+-	Buổi sáng : từ 7h30 đến 11h00 (có mặt trước 7h15)
+-	Buổi chiều : từ 13h30 đến 16h30 (có mặt trước 13h15)
+Bạn nào chưa đóng lệ phí thi vui long đóng gấp. Lệ phí thi chuyển khoản 880K. Xin cám ơn. 
+“ - Nội dung: Payment for TOEIC exam fee for First name_Last name on
+date (VD: Payment for TOEIC exam fee for Mr XX on April 02, 2015) 
+  - Số TK: 0181003250517
+  - Chủ TK: Trần Đức Hậu ”
+
+
+
+
 http://bird.org/scout/Front_Page
 
 http://bird.org/cgi-bin/words.cgi
