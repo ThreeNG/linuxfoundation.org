@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+16A lang ong
+
 •	Ngày thi: September 30, 2018
 •	Buổi thi: PM
 Vui lòng kiểm tra kỹ thông tin đăng kí bên trên, nếu có sai sót gì vui lòng báo lại gấp.
