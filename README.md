@@ -3,6 +3,8 @@
 2-4 phan boi chau
 16A lang ong
 
+https://stranded.fm/#programma-home-section
+
 •	Ngày thi: September 30, 2018
 •	Buổi thi: PM
 Vui lòng kiểm tra kỹ thông tin đăng kí bên trên, nếu có sai sót gì vui lòng báo lại gấp.
