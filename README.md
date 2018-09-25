@@ -3,6 +3,8 @@
 2-4 phan boi chau
 16A lang ong
 
+http://linuxgizmos.com/raspberry-pi-i-o-add-on-targets-aquaponics-and-hydroponics/
+
 https://stranded.fm/#programma-home-section
 
 •	Ngày thi: September 30, 2018
