@@ -3,6 +3,9 @@
 2-4 phan boi chau
 16A lang ong
 
+https://www.google.com/search?q=Device+Driver+for+Linux
+
+
 http://linuxgizmos.com/raspberry-pi-i-o-add-on-targets-aquaponics-and-hydroponics/
 
 https://stranded.fm/#programma-home-section
