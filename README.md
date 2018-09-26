@@ -5,6 +5,7 @@
 
 https://www.google.com/search?q=Device+Driver+for+Linux
 
+https://hvdic.thivien.net/transcript.php#han
 
 http://linuxgizmos.com/raspberry-pi-i-o-add-on-targets-aquaponics-and-hydroponics/
 
