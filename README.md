@@ -5,6 +5,10 @@ maggiesensei.com
 
 https://drive.google.com/drive/folders/0Bxa1nkdzxkloQzVTYmlwRnJVQzg
 
+https://sites.google.com/site/learnvocabinieltsreading/home/speak-english-like-an-american
+
+https://www.redhat.com/en/command-line-heroes
+
 http://maggiesensei.com/2010/05/18/%E3%81%94%E3%82%81%E3%82%93%E3%81%AA%E3%81%95%E3%81%84%E8%A8%B1%E3%81%97%E3%81%A6%E4%B8%8B%E3%81%95%E3%81%84%E3%80%82gomennasaiyurushite-kudasai-how-to-apologize-in-japanese/
 
 2-4 phan boi chau
