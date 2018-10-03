@@ -2,6 +2,8 @@
 
 how a software on automobile works
 
+http://maggiesensei.com/
+
 Điểm tham quan trong thành phố:
 -	Nhà thờ núi : Nhà thờ đá kiến trúc kiểu Pháp, đi chụp hình ok.
 -	Chùa Long Sơn: Chùa lớn nhất ở Nha Trang. 
