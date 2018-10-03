@@ -4,6 +4,8 @@ https://github.com/renesas-rcar
 
 https://www.systutorials.com/linux-kernels/431367/mm-memblock-c-use-config_have_memblock_node_map-to-protect-movablecore_map-in-memblock_overlaps_region-linux-3-9/
 
+https://www.systutorials.com/linux-kernels/431367/mm-memblock-c-use-config_have_memblock_node_map-to-protect-movablecore_map-in-memblock_overlaps_region-linux-3-9/
+
 http://www.cs.rug.nl/~roe/courses/isc/
 
 how a software on automobile works
