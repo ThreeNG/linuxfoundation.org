@@ -6,6 +6,8 @@ https://www.embedded.com/design/operating-systems/4442406/Software-in-cars
 
 http://maggiesensei.com/
 
+https://at.projects.genivi.org/wiki/display/PROJ/Meta+ivi+BSPs+for+Specific+Hardware
+
 Điểm tham quan trong thành phố:
 -	Nhà thờ núi : Nhà thờ đá kiến trúc kiểu Pháp, đi chụp hình ok.
 -	Chùa Long Sơn: Chùa lớn nhất ở Nha Trang. 
