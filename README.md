@@ -2,6 +2,8 @@
 
 https://github.com/renesas-rcar
 
+http://www.cs.rug.nl/~roe/courses/isc/
+
 how a software on automobile works
 
 https://github.com/topics/terminal
