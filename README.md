@@ -1,5 +1,32 @@
 #linuxfoundation.org
 
+how a software on automobile works
+
+Điểm tham quan trong thành phố:
+-	Nhà thờ núi : Nhà thờ đá kiến trúc kiểu Pháp, đi chụp hình ok.
+-	Chùa Long Sơn: Chùa lớn nhất ở Nha Trang. 
+-	Phố tây : Khu vực xung quanh khách sạn. Các quán theo phong cách nước ngoài. Giá cả cao.
+-	Bãi biển, công viên bờ biển: Từ khách sạn có thể đi bộ ra.
+-	Mua sắm: Quanh chợ Xóm mới, vd Hải sản khô 31 Ngô Gia Tự
+-	Hòn chồng: bãi đá cạnh bờ biển, đi chụp hình
+
+Chiều tối: 
+-	Skylight Nha Trang: Bar trên tầng thượng khách sạn. Ngắm thành phố từ trên cao.
+-	Sailing club bar: Bar trên bờ biển
+-	Chợ đêm, ăn vặt: đối diện quảng trường 2/4.
+-	Mall: Nha Trang center, Vincom.
+-	Các quán Cà phê khu vực trung tâm: nhiều
+
+-	Chương trình tour đã có ăn Bún cá, Nem nướng, hải sản.
+-	Quán bánh canh Nguyên Loan + Bún cá 123 Ngô Gia Tự + bánh mì chả cá
+-	Bánh căn 51 Tô Hiến Thành
+-	Bánh bèo, hỏi 15 Huỳnh Thúc Kháng.
+-	Bánh xèo: 85 Tô Hiến Thành.
+-	Bún thịt nướng, bèo hỏi: 163 Hoàng Văn Thụ.
+-	Cơm gà Hà: 75 Ngô Gia Tự
+-	Bánh Đập - Bánh Cuốn - Bánh Ướt: 16 Hồng Lĩnh
+-	Sò, ốc : 24 Ngô Đức Kế
+
 
 maggiesensei.com
 
