@@ -2,6 +2,8 @@
 
 how a software on automobile works
 
+https://www.embedded.com/design/operating-systems/4442406/Software-in-cars
+
 http://maggiesensei.com/
 
 Điểm tham quan trong thành phố:
