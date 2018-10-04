@@ -2,6 +2,8 @@
 
 https://github.com/osu-mist/persons-api
 
+0913759415
+
 https://github.com/renesas-rcar
 
 https://www.systutorials.com/linux-kernels/431367/mm-memblock-c-use-config_have_memblock_node_map-to-protect-movablecore_map-in-memblock_overlaps_region-linux-3-9/
@@ -22,6 +24,49 @@ http://maggiesensei.com/
 https://at.projects.genivi.org/wiki/display/PROJ/Meta+ivi+BSPs+for+Specific+Hardware
 
 https://github.com/marketplace  https://github.com/topics
+
+
+
+
+
+18h00-18h15: Start at RVC
+21h15: Khởi hành đi Nha Trang
+	     Nghỉ đêm trên tàu
+
+
+05h40: Get to Nha Trang
+06h30: Enjoy breakfast 
+08h00: Visit Tháp Bà then go to I Resort (Hot mineral spring resort)
+12h00: Enjoy lucnh 
+ (Hoàng Thành restaurent-110 Mai Xuân Thưởng, P.Vĩnh Hải, Nha Trang)	
+13h30: Take hotel room
+15h00: Go to Nhũ Tiên resort
+	     Attend Team Building
+18h00: Enjoy dinner – Nha Trang speciality food
+Free time- Nem nướng Đặng Văn Quyên.
+
+
+
+
+
+
+06h15: Have breakfast at hotel (buffet)
+07h30: Visit Hon Tam Island.
+12h00: Back to Nha Trang city to have lunch 
+(Thiên Thành-03 Củ Chi, P.Vĩnh Hải, Nha Trang)
+13h00: Back to hotel
+17h30: Attend Gala Dinner at Nhu Tien resort
+21h30: Back to hotel
+
+
+
+
+06h15: Have breakfast at hotel
+07h30: Head to Ho Chi Minh city
+10h00: Visit grape garden in Ninh Thuận	
+11h30: Enjoy lunch 
+18h30: Get to Ho Chi Minh city-END 
+
 
 
 Điểm tham quan trong thành phố:
