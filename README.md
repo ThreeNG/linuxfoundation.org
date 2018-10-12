@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+キム  グエン
+
 https://event.synopsys.com/ehome/352721/agenda/
 
 https://github.com/osu-mist/persons-api
