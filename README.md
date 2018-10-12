@@ -2,6 +2,8 @@
 
 キム  グエン
 
+https://events.linuxfoundation.org/events/agl-member-meeting-europe/program/schedule/
+
 https://event.synopsys.com/ehome/352721/agenda/
 
 https://github.com/osu-mist/persons-api
