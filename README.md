@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://event.synopsys.com/ehome/352721/agenda/
+
 https://github.com/osu-mist/persons-api
 
 https://www.foody.vn/khanh-hoa/quan-nem-le-hong-phong/album-khong-gian
