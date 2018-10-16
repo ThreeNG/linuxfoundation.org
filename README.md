@@ -2,6 +2,8 @@
 
 キム  グエン
 
+https://www.amatechinc.com/resources/blog/tier-1-2-3-automotive-industry-supply-chain-explained
+
 https://hshop.vn/products/man-honh-lcd-7-inch-hdmi-vga-rca
 
 https://events.linuxfoundation.org/events/agl-member-meeting-europe/program/schedule/
