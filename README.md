@@ -2,6 +2,8 @@
 
 キム  グエン
 
+https://hshop.vn/products/man-honh-lcd-7-inch-hdmi-vga-rca
+
 https://events.linuxfoundation.org/events/agl-member-meeting-europe/program/schedule/
 
 https://event.synopsys.com/ehome/352721/agenda/
