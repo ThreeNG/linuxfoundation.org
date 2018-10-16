@@ -2,6 +2,9 @@
 
 キム  グエン
 
+https://lawpro.vn/ban-hieu-oem-va-odm-la-gi.html
+
+
 https://www.amatechinc.com/resources/blog/tier-1-2-3-automotive-industry-supply-chain-explained
 
 https://hshop.vn/products/man-honh-lcd-7-inch-hdmi-vga-rca
