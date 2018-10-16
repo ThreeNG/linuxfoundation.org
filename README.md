@@ -1,6 +1,7 @@
 #linuxfoundation.org
 
-キム  グエン
+
+https://learningenglish.voanews.com/a/a-half-british-half-american-royal-baby-on-the-way/4614552.html
 
 https://lawpro.vn/ban-hieu-oem-va-odm-la-gi.html
 
@@ -42,6 +43,7 @@ https://at.projects.genivi.org/wiki/display/PROJ/Meta+ivi+BSPs+for+Specific+Hard
 https://github.com/marketplace  https://github.com/topics
 
 
+キム  グエン
 
 
 
