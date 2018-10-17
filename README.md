@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://github.com/jenkinsci/blueocean-plugin
+
 https://jenkins.io/solutions/github/
 
 https://gerrit.automotivelinux.org/gerrit/#/q/status:open
