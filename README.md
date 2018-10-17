@@ -1,5 +1,6 @@
 #linuxfoundation.org
 
+https://gerrit.automotivelinux.org/gerrit/#/q/status:open
 
 sudo apt-get install matchbox-keyboard
 
