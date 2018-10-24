@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://www.bosch-mobility-solutions.com/en/highlights/connected-mobility/
+
 http://fuegotest.org/fuego/Fuego_Quickstart_Guide
 
 http://time-in.info/timer.asp
