@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+http://fuegotest.org/fuego/Fuego_Quickstart_Guide
+
 http://time-in.info/timer.asp
 
 Tim Bird and Kenvin Hilman
