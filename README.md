@@ -2,6 +2,8 @@
 
 https://www.raspberrypi.org/magpi-issues/MagPi70.pdf
 
+https://sites.google.com/site/cauchuyenvanhocnghethuat/vhnt-85-1
+
 https://www.bosch-mobility-solutions.com/en/highlights/connected-mobility/
 
 http://fuegotest.org/fuego/Fuego_Quickstart_Guide
