@@ -1,5 +1,9 @@
 #linuxfoundation.org
 
+uname -a
+ cat /proc/version
+ lsb_release -a
+
 https://ngoinhakienthuc.com/tu-tre-trau-co-nghia-la-gi.html
 
 http://www.simtec.co.uk/products/SWLINUX/files/booting_article.pdf
