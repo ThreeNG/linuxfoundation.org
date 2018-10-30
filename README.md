@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://ngoinhakienthuc.com/tu-tre-trau-co-nghia-la-gi.html
+
 http://www.simtec.co.uk/products/SWLINUX/files/booting_article.pdf
 
 https://releases.linaro.org/components/toolchain/binaries/6.3-2017.05/aarch64-linux-gnu/
