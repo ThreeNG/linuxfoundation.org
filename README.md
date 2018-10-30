@@ -3,6 +3,8 @@
 uname -a
  cat /proc/version
  lsb_release -a
+ 
+https://linhkiendientudaiphu.com/san-pham/day-co-nhiet-3mm.html
 
 https://ngoinhakienthuc.com/tu-tre-trau-co-nghia-la-gi.html
 
