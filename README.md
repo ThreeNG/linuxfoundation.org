@@ -1,5 +1,11 @@
 #linuxfoundation.org
 
+
+http://kanshudo.com/
+
+http://maggiesensei.com/
+
+
 uname -a
  cat /proc/version
  lsb_release -a
