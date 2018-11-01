@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+download.osmc.tv/installers/diskimages/OSMC_TGT_rbp1_20181014.img.gz
+
 Ki 23/9 al
 
 http://kanshudo.com/
