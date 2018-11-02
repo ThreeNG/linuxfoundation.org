@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+git remote -v
+
 git remote add 83 rvc@192.168.5.83:/GITLAB/BenchMark
 
 git push 24 remotes/origin/fuego-renesas
