@@ -1,5 +1,10 @@
 #linuxfoundation.org
 
+git remote add 83 rvc@192.168.5.83:/GITLAB/BenchMark
+
+git push 24 remotes/origin/fuego-renesas
+
+
 http://download.osmc.tv/installers/diskimages/OSMC_TGT_rbp1_20181014.img.gz
 
 Ki 23/9 al
