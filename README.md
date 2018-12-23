@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://www.youtube.com/channel/UC0cd_-e49hZpWLH3UIwoWRA/videos
+
 http://mlab.vn/raspberry-pi-b-raspberry-pi2/module-cho-raspberry-pi/1256641-pifi-dac-v2-0-card-am-thanh-hi-fi-cho-raspberry-pi.html
 
 https://www.chotot.com/quan-go-vap/mua-ban-man-hinh-phu-kien/53616163.htm
