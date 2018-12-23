@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://www.chotot.com/quan-go-vap/mua-ban-man-hinh-phu-kien/53616163.htm
+
 https://www.chotot.com/quan-tan-binh/mua-ban-laptop/53467349.htm
 
 https://www.chotot.com/quan-tan-binh/mua-ban-laptop/53499399.htm
