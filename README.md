@@ -1,5 +1,7 @@
 #linuxfoundation.org
 
+https://www.chotot.com/quan-tan-binh/mua-ban-laptop/53499399.htm
+
 git remote -v
 
 git remote add 83 rvc@192.168.5.83:/GITLAB/BenchMark
