@@ -1,0 +1,10 @@
+Coding can be challenging in the beginning.
+With a different way or syntax of writing about a particular task , it often becomes confusing as to how one should start.
+It is important to understand that jumping to bigger algorithms and harder data structures straight way should notbe the motive.
+Rather one should focus on getting the basics right.
+Simple structures like if-else , switch statements , loops, arrays , strings and writing simple functions with clear understanding of why and how it is wriiten should be one's priority. 
+Once these are done you can begin with easier data structures like linkedlist , stacks , queues and then with trees , tries , hashmaps and graphs. 
+Algorithms and data structure are the most important and should be done properly. Language can be any, it hardly matters but logic does.
+But as the best practices are most people code in C++ and Java.
+After doing with basics , practice on platforms like Hackerrank, Hackerearth, Codechef and Leetcode is important.
+Hope that it helps !!
