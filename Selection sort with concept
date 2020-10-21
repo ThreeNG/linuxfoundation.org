@@ -1,0 +1,31 @@
+In this section we will learn about selection sort.
+In selection sort , in each iteration we find the smallest number from the remaining array and replace it with the current element.
+This way we do till the entire array is sorted. The time complexity is O(n^2), where n is the number of elements in the array.
+
+Code: The following code  sorts the array in increasing order.
+
+import java.util.*;
+class Solution{
+public static void main(String[] args){
+Scanner s=new Scanner(System.in);
+int n=s.nextInt();
+ int arr[]=new int[n];
+ for(int i=0;i<n;i++){
+   arr[i]=s.nextInt();
+ }
+ 
+ // SELECTION SORT
+ for(int i=0;i<n-1;i++){
+  int min=arr[i];
+   int minIndex=i;
+   for(int j=i+1;j<n;j++){
+      if(arr[j]<min){
+      min=arr[j];
+      minIndex=j;
+      }
+   }
+   arr[minIndex]=arr[i];
+   arr[i]=min;
+ }
+}
+}
