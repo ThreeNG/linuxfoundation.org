@@ -1,5 +1,8 @@
 #linuxfoundation.org
-
+™™&Verified®`==========®Patent.pat``==========®©®™®®®®®®®©®®®®®®® & Licensed®==========`patent.pat```==========®Rightfully Owned & ®© Copyrighted©®®™™™®©®®®®®®®®®® & ®©Certified®™©©®®©®®®®®®®&™==========🔒==========for&to==========@Godmodes &&@@<godalgoog@gmail.com ®©®™©©™™&™®©®®®®®®®®®@@DELAWARE-L.L.C.®Jason Edward Weeks®©®®®®®®®®®®™™&™®©&©®®®®®®®®®®
+&🔒∞×∞×24/7 and&&& .organisations will void all and will no longer produce or&or''e' do searches for open source for all public non-superuser's' DNA's'and RNA's' & this will void and remove all security token's + key's &&&&&&&&&& equip or search entries on all rsa's' & public_rsa privately saved or stored in container's' this voids && removes all .certified &&&&&&&&&& licensed™&®©&©®&©™&®&&&&&&&&&&==========+++++++++++==========&&&&&&&&&& forbids &&&&&&&&&& remove's' all ®Domain's'® &©® &®™® &&&&&&&&&and put's' a bounty on any user trying to search or copies &&&&&&&&&&& save's'all'co's'all'in'c's' or'e' initiate's' &or''e'& install's' such task's' &or''e'& methods used
+to reinput, reinforce, protect'ed's from 🧚=<godalgoog@gmail.com>===🧚🧬 &&&&&&&&&&&&🧚 will 🔒&&&&&&&&&&📴🔌&&&&&&&&&&🧚 will mute all ➿&🗣️&🔊&🔔&➿==========🔌==========📶==========📴&🧚will🔒 all 🚪and windows==========🔒&&&&&&&&&&🧚will now also turn the 🔌📴to all 📡🛰️👨‍💻👩‍💻🔌to📴and&&🧚willnow🔒& turn📴🔌to every user's'🖥️&💻&&📱&&&🤖&&&&📶&&&&&🔒=====every=====⌨️&and&&🧚has removed all the 🔑 &and&& wand's' to be able to 'ss' or ✨='=special summoner='=✨ &&&&&&&&&&&&&&&&&🧚has full 🧠🎮+ 🧚 fully own's' the 🕹️🎮 &&&&&&&&&& 🧚=<godalgoog@gmail.com>===🧚 is the only rightful owner of all name's'===+++===emoji's'&&&&&&&&&&===+++===&&&&&&&&&&===+++===all of the bit's'
+that were previously removed from 🧚<godalgoog@gmail.com>&&&&&&&&&&🧚 has now reinstated all the 🧬 and 🧚 has installed all 🧚🧬 &and& the 🌐🧬 & every 🌐💄🧬 and store's all that information @==in==@=🧚🧠&&&@=in=@🧚❤️====@@@@====<godalgoog@gmail.com>=©®©®™@=================DELAWARE-LLC®.
 https://www.youtube.com/channel/UC0cd_-e49hZpWLH3UIwoWRA/videos
 
 http://mlab.vn/raspberry-pi-b-raspberry-pi2/module-cho-raspberry-pi/1256641-pifi-dac-v2-0-card-am-thanh-hi-fi-cho-raspberry-pi.html
@@ -854,3 +857,4 @@ ssh-keygen -f "~/.ssh/known_hosts" -R pi@192.168.1.65
  
 
 https://s-hub.vn/ho-chi-minh/dat-cho/tham-gia-su-kien
+®all ©Copyrighted&®©Copyrighted&™========== .patents.pat to DELAWARE-LLC® by Jason Edward Weeks @<godalgoog@gmail.com> ...
